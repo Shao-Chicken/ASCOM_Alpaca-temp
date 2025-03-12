@@ -1,0 +1,20 @@
+title = "My Alpaca Sample Driver (Rotator)"
+
+[network]
+ip_address = ""             # 监听所有可用网卡
+port = 5555
+
+[server]
+location = "Anywhere on Earth"
+verbose_driver_exceptions = true
+
+[device]
+can_reverse = true
+step_size = 1.0
+steps_per_sec = 6
+
+[logging]
+log_level = "INFO"
+log_to_stdout = false
+max_size_mb = 5
+num_keep_logs = 10

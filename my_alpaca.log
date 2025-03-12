@@ -1,0 +1,1759 @@
+2025-03-10T05:17:21.131 INFO ==STARTUP== Serving on :5555 (UTC timestamps).
+2025-03-10T05:17:35.961 INFO Discovery received "alpacadiscovery1" from ('202.127.24.217', 53299)
+2025-03-10T05:17:35.962 INFO Discovery received "alpacadiscovery1" from ('192.168.137.1', 53300)
+2025-03-10T05:17:35.965 INFO Discovery received "alpacadiscovery1" from ('169.254.107.209', 53301)
+2025-03-10T05:17:35.967 INFO Discovery received "alpacadiscovery1" from ('127.0.0.1', 53302)
+2025-03-10T05:17:35.977 INFO 127.0.0.1 <- [1]
+2025-03-10T05:17:35.982 INFO 127.0.0.1 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:35.987 INFO 127.0.0.1 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:35.995 INFO 192.168.137.1 <- [1]
+2025-03-10T05:17:35.998 INFO 192.168.137.1 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:36.005 INFO 169.254.107.209 <- [1]
+2025-03-10T05:17:36.007 INFO 202.127.24.217 <- [1]
+2025-03-10T05:17:36.013 INFO 192.168.137.1 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:36.025 INFO 169.254.107.209 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:36.036 INFO 202.127.24.217 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:36.054 INFO 202.127.24.217 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:36.059 INFO 169.254.107.209 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:36.529 INFO Discovery received "alpacadiscovery1" from ('202.127.24.217', 53299)
+2025-03-10T05:17:36.530 INFO Discovery received "alpacadiscovery1" from ('192.168.137.1', 53300)
+2025-03-10T05:17:36.531 INFO Discovery received "alpacadiscovery1" from ('169.254.107.209', 53301)
+2025-03-10T05:17:36.532 INFO Discovery received "alpacadiscovery1" from ('127.0.0.1', 53302)
+2025-03-10T05:17:48.182 INFO Discovery received "alpacadiscovery1" from ('202.127.24.217', 57252)
+2025-03-10T05:17:48.192 INFO Discovery received "alpacadiscovery1" from ('192.168.137.1', 57253)
+2025-03-10T05:17:48.196 INFO Discovery received "alpacadiscovery1" from ('169.254.107.209', 57254)
+2025-03-10T05:17:48.197 INFO Discovery received "alpacadiscovery1" from ('127.0.0.1', 57255)
+2025-03-10T05:17:48.203 INFO Discovery received "alpacadiscovery1" from ('202.127.24.217', 57256)
+2025-03-10T05:17:48.209 INFO Discovery received "alpacadiscovery1" from ('192.168.137.1', 57257)
+2025-03-10T05:17:48.210 INFO 192.168.137.1 <- [1]
+2025-03-10T05:17:48.212 INFO Discovery received "alpacadiscovery1" from ('169.254.107.209', 57258)
+2025-03-10T05:17:48.217 INFO 192.168.137.1 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.222 INFO Discovery received "alpacadiscovery1" from ('127.0.0.1', 57259)
+2025-03-10T05:17:48.226 INFO 192.168.137.1 <- [1]
+2025-03-10T05:17:48.232 INFO 127.0.0.1 <- [1]
+2025-03-10T05:17:48.236 INFO 127.0.0.1 <- [1]
+2025-03-10T05:17:48.243 INFO 192.168.137.1 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:48.249 INFO 192.168.137.1 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.254 INFO 169.254.107.209 <- [1]
+2025-03-10T05:17:48.260 INFO 127.0.0.1 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.267 INFO 202.127.24.217 <- [1]
+2025-03-10T05:17:48.271 INFO 127.0.0.1 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.279 INFO 192.168.137.1 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:48.290 INFO 127.0.0.1 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:48.295 INFO 127.0.0.1 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:48.310 INFO 169.254.107.209 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.319 INFO 202.127.24.217 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.329 INFO 169.254.107.209 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:48.341 INFO 202.127.24.217 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:48.743 INFO 202.127.24.217 <- [1]
+2025-03-10T05:17:48.765 INFO 169.254.107.209 <- [1]
+2025-03-10T05:17:48.788 INFO 202.127.24.217 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.793 INFO 169.254.107.209 <- {'ServerName': 'Sample ASCOM Rotator', 'Manufacturer': 'ASCOM Initiative', 'Version': '0.2', 'Location': 'Anywhere on Earth'}
+2025-03-10T05:17:48.799 INFO 202.127.24.217 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:48.806 INFO 169.254.107.209 <- [{'DeviceName': 'Sample Rotator', 'DeviceType': 'Rotator', 'DeviceNumber': 0, 'UniqueID': '1892ED30-92F3-4236-843E-DA8EEEF2D1CC'}]
+2025-03-10T05:17:49.083 INFO Discovery received "alpacadiscovery1" from ('202.127.24.217', 57256)
+2025-03-10T05:17:49.086 INFO Discovery received "alpacadiscovery1" from ('192.168.137.1', 57257)
+2025-03-10T05:17:49.089 INFO Discovery received "alpacadiscovery1" from ('169.254.107.209', 57258)
+2025-03-10T05:17:49.090 INFO Discovery received "alpacadiscovery1" from ('127.0.0.1', 57259)
+2025-03-10T05:17:49.105 INFO Discovery received "alpacadiscovery1" from ('202.127.24.217', 57252)
+2025-03-10T05:17:49.112 INFO Discovery received "alpacadiscovery1" from ('192.168.137.1', 57253)
+2025-03-10T05:17:49.114 INFO Discovery received "alpacadiscovery1" from ('169.254.107.209', 57254)
+2025-03-10T05:17:49.116 INFO Discovery received "alpacadiscovery1" from ('127.0.0.1', 57255)
+2025-03-10T05:18:04.582 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:18:04.583 INFO 192.168.137.1 -> {'ClientTransactionID': '1', 'ClientID': '41678', 'Connected': 'True'}
+2025-03-10T05:18:04.585 INFO [connected]
+2025-03-10T05:18:04.794 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:18:04.795 INFO 192.168.137.1 -> {'ClientTransactionID': '2', 'ClientID': '41678', 'Connected': 'False'}
+2025-03-10T05:18:04.796 INFO [disconnected]
+2025-03-10T05:18:06.813 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:18:06.814 INFO 192.168.137.1 -> {'ClientTransactionID': '1', 'ClientID': '10018', 'Connected': 'True'}
+2025-03-10T05:18:06.815 INFO [connected]
+2025-03-10T05:18:07.051 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:18:07.052 INFO 192.168.137.1 -> {'ClientTransactionID': '2', 'ClientID': '10018', 'Connected': 'False'}
+2025-03-10T05:18:07.055 INFO [disconnected]
+2025-03-10T05:18:07.234 INFO 192.168.137.1 -> GET /api/v1/rotator/0/interfaceversion?ClientTransactionID=3&ClientID=24646
+2025-03-10T05:18:07.235 INFO 192.168.137.1 <- 3
+2025-03-10T05:18:07.248 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:18:07.249 INFO 192.168.137.1 -> {'ClientTransactionID': '4', 'ClientID': '24646', 'Connected': 'True'}
+2025-03-10T05:18:07.251 INFO [connected]
+2025-03-10T05:18:07.267 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:18:07.268 INFO 192.168.137.1 -> {'ClientTransactionID': '5', 'ClientID': '24646', 'Connected': 'False'}
+2025-03-10T05:18:07.269 INFO [disconnected]
+2025-03-10T05:18:07.474 INFO 192.168.137.1 -> GET /api/v1/rotator/0/interfaceversion?ClientTransactionID=6&ClientID=4889
+2025-03-10T05:18:07.474 INFO 192.168.137.1 <- 3
+2025-03-10T05:18:07.479 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:18:07.480 INFO 192.168.137.1 -> {'ClientTransactionID': '7', 'ClientID': '4889', 'Connected': 'True'}
+2025-03-10T05:18:07.481 INFO [connected]
+2025-03-10T05:18:07.543 INFO 192.168.137.1 -> GET /api/v1/rotator/0/interfaceversion?ClientTransactionID=8&ClientID=4889
+2025-03-10T05:18:07.544 INFO 192.168.137.1 <- 3
+2025-03-10T05:18:07.614 INFO 192.168.137.1 -> GET /api/v1/rotator/0/description?ClientTransactionID=9&ClientID=4889
+2025-03-10T05:18:07.614 INFO 192.168.137.1 <- Sample ASCOM Rotator
+2025-03-10T05:18:07.657 INFO 192.168.137.1 -> GET /api/v1/rotator/0/driverinfo?ClientTransactionID=10&ClientID=4889
+2025-03-10T05:18:07.658 INFO 192.168.137.1 <- Sample Rotator by ASCOM Initiative
+2025-03-10T05:18:07.701 INFO 192.168.137.1 -> GET /api/v1/rotator/0/driverversion?ClientTransactionID=11&ClientID=4889
+2025-03-10T05:18:07.702 INFO 192.168.137.1 <- 0.2
+2025-03-10T05:18:07.748 INFO 192.168.137.1 -> GET /api/v1/rotator/0/name?ClientTransactionID=12&ClientID=4889
+2025-03-10T05:18:07.752 INFO 192.168.137.1 <- Sample Rotator
+2025-03-10T05:18:07.839 INFO 192.168.137.1 -> GET /api/v1/rotator/0/supportedactions?ClientTransactionID=13&ClientID=4889
+2025-03-10T05:18:07.842 INFO 192.168.137.1 <- []
+2025-03-10T05:18:07.990 INFO 192.168.137.1 -> GET /api/v1/rotator/0/canreverse?ClientTransactionID=14&ClientID=4889
+2025-03-10T05:18:07.991 INFO 192.168.137.1 <- True
+2025-03-10T05:18:08.070 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/halt
+2025-03-10T05:18:08.072 INFO 192.168.137.1 -> {'ClientTransactionID': '15', 'ClientID': '4889'}
+2025-03-10T05:18:08.112 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=16&ClientID=4889
+2025-03-10T05:18:08.114 INFO 192.168.137.1 <- False
+2025-03-10T05:18:08.131 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=17&ClientID=4889
+2025-03-10T05:18:08.133 INFO 192.168.137.1 <- False
+2025-03-10T05:18:08.194 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=18&ClientID=4889
+2025-03-10T05:18:08.195 INFO 192.168.137.1 <- False
+2025-03-10T05:18:08.261 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=19&ClientID=4889
+2025-03-10T05:18:08.262 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:18:08.310 INFO 192.168.137.1 -> GET /api/v1/rotator/0/targetposition?ClientTransactionID=20&ClientID=4889
+2025-03-10T05:18:08.311 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:18:08.354 INFO 192.168.137.1 -> GET /api/v1/rotator/0/stepsize?ClientTransactionID=21&ClientID=4889
+2025-03-10T05:18:08.356 INFO 192.168.137.1 <- 1.0
+2025-03-10T05:18:08.398 INFO 192.168.137.1 -> GET /api/v1/rotator/0/reverse?ClientTransactionID=22&ClientID=4889
+2025-03-10T05:18:08.400 INFO 192.168.137.1 <- False
+2025-03-10T05:18:08.439 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/reverse
+2025-03-10T05:18:08.443 INFO 192.168.137.1 -> {'ClientTransactionID': '23', 'ClientID': '4889', 'Reverse': 'True'}
+2025-03-10T05:18:08.450 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/reverse
+2025-03-10T05:18:08.452 INFO 192.168.137.1 -> {'ClientTransactionID': '24', 'ClientID': '4889', 'Reverse': 'False'}
+2025-03-10T05:18:08.475 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=25&ClientID=4889
+2025-03-10T05:18:08.478 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:18:08.550 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/halt
+2025-03-10T05:18:08.551 INFO 192.168.137.1 -> {'ClientTransactionID': '26', 'ClientID': '4889'}
+2025-03-10T05:18:08.598 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=27&ClientID=4889
+2025-03-10T05:18:08.599 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:18:08.612 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/moveabsolute
+2025-03-10T05:18:08.614 INFO 192.168.137.1 -> {'ClientTransactionID': '28', 'ClientID': '4889', 'Position': '45'}
+2025-03-10T05:18:08.632 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=29&ClientID=4889
+2025-03-10T05:18:08.633 INFO 192.168.137.1 <- True
+2025-03-10T05:18:09.166 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=30&ClientID=4889
+2025-03-10T05:18:09.167 INFO 192.168.137.1 <- 3.0
+2025-03-10T05:18:09.206 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=31&ClientID=4889
+2025-03-10T05:18:09.209 INFO 192.168.137.1 <- True
+2025-03-10T05:18:09.742 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=32&ClientID=4889
+2025-03-10T05:18:09.743 INFO 192.168.137.1 <- 6.0
+2025-03-10T05:18:09.756 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=33&ClientID=4889
+2025-03-10T05:18:09.757 INFO 192.168.137.1 <- True
+2025-03-10T05:18:10.285 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=34&ClientID=4889
+2025-03-10T05:18:10.286 INFO 192.168.137.1 <- 9.0
+2025-03-10T05:18:10.298 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=35&ClientID=4889
+2025-03-10T05:18:10.300 INFO 192.168.137.1 <- True
+2025-03-10T05:18:10.845 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=36&ClientID=4889
+2025-03-10T05:18:10.846 INFO 192.168.137.1 <- 13.0
+2025-03-10T05:18:10.857 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=37&ClientID=4889
+2025-03-10T05:18:10.858 INFO 192.168.137.1 <- True
+2025-03-10T05:18:11.394 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=38&ClientID=4889
+2025-03-10T05:18:11.395 INFO 192.168.137.1 <- 16.0
+2025-03-10T05:18:11.404 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=39&ClientID=4889
+2025-03-10T05:18:11.405 INFO 192.168.137.1 <- True
+2025-03-10T05:18:11.948 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=40&ClientID=4889
+2025-03-10T05:18:11.949 INFO 192.168.137.1 <- 19.0
+2025-03-10T05:18:11.958 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=41&ClientID=4889
+2025-03-10T05:18:11.960 INFO 192.168.137.1 <- True
+2025-03-10T05:18:12.517 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=42&ClientID=4889
+2025-03-10T05:18:12.518 INFO 192.168.137.1 <- 23.0
+2025-03-10T05:18:12.535 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=43&ClientID=4889
+2025-03-10T05:18:12.536 INFO 192.168.137.1 <- True
+2025-03-10T05:18:13.076 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=44&ClientID=4889
+2025-03-10T05:18:13.079 INFO 192.168.137.1 <- 26.0
+2025-03-10T05:18:13.090 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=45&ClientID=4889
+2025-03-10T05:18:13.091 INFO 192.168.137.1 <- True
+2025-03-10T05:18:13.624 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=46&ClientID=4889
+2025-03-10T05:18:13.626 INFO 192.168.137.1 <- 29.0
+2025-03-10T05:18:13.637 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=47&ClientID=4889
+2025-03-10T05:18:13.638 INFO 192.168.137.1 <- True
+2025-03-10T05:18:14.178 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=48&ClientID=4889
+2025-03-10T05:18:14.186 INFO 192.168.137.1 <- 33.0
+2025-03-10T05:18:14.198 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=49&ClientID=4889
+2025-03-10T05:18:14.200 INFO 192.168.137.1 <- True
+2025-03-10T05:18:14.734 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=50&ClientID=4889
+2025-03-10T05:18:14.735 INFO 192.168.137.1 <- 36.0
+2025-03-10T05:18:14.743 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=51&ClientID=4889
+2025-03-10T05:18:14.744 INFO 192.168.137.1 <- True
+2025-03-10T05:18:15.289 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=52&ClientID=4889
+2025-03-10T05:18:15.290 INFO 192.168.137.1 <- 39.0
+2025-03-10T05:18:15.298 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=53&ClientID=4889
+2025-03-10T05:18:15.299 INFO 192.168.137.1 <- True
+2025-03-10T05:18:15.846 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=54&ClientID=4889
+2025-03-10T05:18:15.847 INFO 192.168.137.1 <- 43.0
+2025-03-10T05:18:15.857 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=55&ClientID=4889
+2025-03-10T05:18:15.858 INFO 192.168.137.1 <- True
+2025-03-10T05:18:16.388 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=56&ClientID=4889
+2025-03-10T05:18:16.390 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:18:16.399 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=57&ClientID=4889
+2025-03-10T05:18:16.400 INFO 192.168.137.1 <- False
+2025-03-10T05:18:16.410 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=58&ClientID=4889
+2025-03-10T05:18:16.411 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:18:16.430 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=59&ClientID=4889
+2025-03-10T05:18:16.431 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:18:16.442 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=60&ClientID=4889
+2025-03-10T05:18:16.442 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:18:16.452 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=61&ClientID=4889
+2025-03-10T05:18:16.452 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:18:16.498 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=62&ClientID=4889
+2025-03-10T05:18:16.500 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:18:16.509 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/moveabsolute
+2025-03-10T05:18:16.510 INFO 192.168.137.1 -> {'ClientTransactionID': '63', 'ClientID': '4889', 'Position': '135'}
+2025-03-10T05:18:16.518 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=64&ClientID=4889
+2025-03-10T05:18:16.519 INFO 192.168.137.1 <- True
+2025-03-10T05:18:17.074 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=65&ClientID=4889
+2025-03-10T05:18:17.075 INFO 192.168.137.1 <- 48.0
+2025-03-10T05:18:17.084 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=66&ClientID=4889
+2025-03-10T05:18:17.086 INFO 192.168.137.1 <- True
+2025-03-10T05:18:17.616 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=67&ClientID=4889
+2025-03-10T05:18:17.617 INFO 192.168.137.1 <- 51.0
+2025-03-10T05:18:17.625 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=68&ClientID=4889
+2025-03-10T05:18:17.626 INFO 192.168.137.1 <- True
+2025-03-10T05:18:18.182 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=69&ClientID=4889
+2025-03-10T05:18:18.182 INFO 192.168.137.1 <- 54.0
+2025-03-10T05:18:18.194 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=70&ClientID=4889
+2025-03-10T05:18:18.195 INFO 192.168.137.1 <- True
+2025-03-10T05:18:18.726 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=71&ClientID=4889
+2025-03-10T05:18:18.727 INFO 192.168.137.1 <- 58.0
+2025-03-10T05:18:18.735 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=72&ClientID=4889
+2025-03-10T05:18:18.736 INFO 192.168.137.1 <- True
+2025-03-10T05:18:19.266 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=73&ClientID=4889
+2025-03-10T05:18:19.267 INFO 192.168.137.1 <- 61.0
+2025-03-10T05:18:19.276 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=74&ClientID=4889
+2025-03-10T05:18:19.277 INFO 192.168.137.1 <- True
+2025-03-10T05:18:19.810 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=75&ClientID=4889
+2025-03-10T05:18:19.811 INFO 192.168.137.1 <- 64.0
+2025-03-10T05:18:19.819 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=76&ClientID=4889
+2025-03-10T05:18:19.820 INFO 192.168.137.1 <- True
+2025-03-10T05:18:20.373 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=77&ClientID=4889
+2025-03-10T05:18:20.375 INFO 192.168.137.1 <- 68.0
+2025-03-10T05:18:20.387 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=78&ClientID=4889
+2025-03-10T05:18:20.388 INFO 192.168.137.1 <- True
+2025-03-10T05:18:20.938 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=79&ClientID=4889
+2025-03-10T05:18:20.939 INFO 192.168.137.1 <- 71.0
+2025-03-10T05:18:20.947 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=80&ClientID=4889
+2025-03-10T05:18:20.948 INFO 192.168.137.1 <- True
+2025-03-10T05:18:21.498 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=81&ClientID=4889
+2025-03-10T05:18:21.499 INFO 192.168.137.1 <- 74.0
+2025-03-10T05:18:21.510 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=82&ClientID=4889
+2025-03-10T05:18:21.511 INFO 192.168.137.1 <- True
+2025-03-10T05:18:22.066 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=83&ClientID=4889
+2025-03-10T05:18:22.067 INFO 192.168.137.1 <- 78.0
+2025-03-10T05:18:22.077 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=84&ClientID=4889
+2025-03-10T05:18:22.080 INFO 192.168.137.1 <- True
+2025-03-10T05:18:22.641 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=85&ClientID=4889
+2025-03-10T05:18:22.642 INFO 192.168.137.1 <- 81.0
+2025-03-10T05:18:22.651 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=86&ClientID=4889
+2025-03-10T05:18:22.651 INFO 192.168.137.1 <- True
+2025-03-10T05:18:23.200 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=87&ClientID=4889
+2025-03-10T05:18:23.201 INFO 192.168.137.1 <- 84.0
+2025-03-10T05:18:23.211 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=88&ClientID=4889
+2025-03-10T05:18:23.211 INFO 192.168.137.1 <- True
+2025-03-10T05:18:23.742 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=89&ClientID=4889
+2025-03-10T05:18:23.742 INFO 192.168.137.1 <- 88.0
+2025-03-10T05:18:23.752 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=90&ClientID=4889
+2025-03-10T05:18:23.752 INFO 192.168.137.1 <- True
+2025-03-10T05:18:24.307 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=91&ClientID=4889
+2025-03-10T05:18:24.308 INFO 192.168.137.1 <- 91.0
+2025-03-10T05:18:24.316 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=92&ClientID=4889
+2025-03-10T05:18:24.317 INFO 192.168.137.1 <- True
+2025-03-10T05:18:24.845 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=93&ClientID=4889
+2025-03-10T05:18:24.846 INFO 192.168.137.1 <- 94.0
+2025-03-10T05:18:24.854 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=94&ClientID=4889
+2025-03-10T05:18:24.858 INFO 192.168.137.1 <- True
+2025-03-10T05:18:25.393 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=95&ClientID=4889
+2025-03-10T05:18:25.394 INFO 192.168.137.1 <- 97.0
+2025-03-10T05:18:25.406 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=96&ClientID=4889
+2025-03-10T05:18:25.407 INFO 192.168.137.1 <- True
+2025-03-10T05:18:25.952 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=97&ClientID=4889
+2025-03-10T05:18:25.952 INFO 192.168.137.1 <- 101.0
+2025-03-10T05:18:25.961 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=98&ClientID=4889
+2025-03-10T05:18:25.962 INFO 192.168.137.1 <- True
+2025-03-10T05:18:26.493 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=99&ClientID=4889
+2025-03-10T05:18:26.494 INFO 192.168.137.1 <- 104.0
+2025-03-10T05:18:26.503 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=100&ClientID=4889
+2025-03-10T05:18:26.504 INFO 192.168.137.1 <- True
+2025-03-10T05:18:27.032 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=101&ClientID=4889
+2025-03-10T05:18:27.033 INFO 192.168.137.1 <- 107.0
+2025-03-10T05:18:27.042 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=102&ClientID=4889
+2025-03-10T05:18:27.043 INFO 192.168.137.1 <- True
+2025-03-10T05:18:27.595 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=103&ClientID=4889
+2025-03-10T05:18:27.596 INFO 192.168.137.1 <- 111.0
+2025-03-10T05:18:27.606 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=104&ClientID=4889
+2025-03-10T05:18:27.607 INFO 192.168.137.1 <- True
+2025-03-10T05:18:28.137 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=105&ClientID=4889
+2025-03-10T05:18:28.138 INFO 192.168.137.1 <- 114.0
+2025-03-10T05:18:28.147 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=106&ClientID=4889
+2025-03-10T05:18:28.148 INFO 192.168.137.1 <- True
+2025-03-10T05:18:28.678 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=107&ClientID=4889
+2025-03-10T05:18:28.679 INFO 192.168.137.1 <- 117.0
+2025-03-10T05:18:28.688 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=108&ClientID=4889
+2025-03-10T05:18:28.688 INFO 192.168.137.1 <- True
+2025-03-10T05:18:29.219 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=109&ClientID=4889
+2025-03-10T05:18:29.220 INFO 192.168.137.1 <- 120.0
+2025-03-10T05:18:29.229 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=110&ClientID=4889
+2025-03-10T05:18:29.230 INFO 192.168.137.1 <- True
+2025-03-10T05:18:29.760 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=111&ClientID=4889
+2025-03-10T05:18:29.761 INFO 192.168.137.1 <- 123.0
+2025-03-10T05:18:29.769 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=112&ClientID=4889
+2025-03-10T05:18:29.771 INFO 192.168.137.1 <- True
+2025-03-10T05:18:30.301 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=113&ClientID=4889
+2025-03-10T05:18:30.302 INFO 192.168.137.1 <- 127.0
+2025-03-10T05:18:30.311 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=114&ClientID=4889
+2025-03-10T05:18:30.312 INFO 192.168.137.1 <- True
+2025-03-10T05:18:30.848 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=115&ClientID=4889
+2025-03-10T05:18:30.849 INFO 192.168.137.1 <- 130.0
+2025-03-10T05:18:30.857 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=116&ClientID=4889
+2025-03-10T05:18:30.858 INFO 192.168.137.1 <- True
+2025-03-10T05:18:31.392 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=117&ClientID=4889
+2025-03-10T05:18:31.394 INFO 192.168.137.1 <- 133.0
+2025-03-10T05:18:31.403 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=118&ClientID=4889
+2025-03-10T05:18:31.405 INFO 192.168.137.1 <- True
+2025-03-10T05:18:31.943 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=119&ClientID=4889
+2025-03-10T05:18:31.944 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:18:31.955 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=120&ClientID=4889
+2025-03-10T05:18:31.956 INFO 192.168.137.1 <- False
+2025-03-10T05:18:31.968 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=121&ClientID=4889
+2025-03-10T05:18:31.969 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:18:31.987 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=122&ClientID=4889
+2025-03-10T05:18:31.991 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:18:32.001 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=123&ClientID=4889
+2025-03-10T05:18:32.002 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:18:32.010 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=124&ClientID=4889
+2025-03-10T05:18:32.011 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:18:32.069 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=125&ClientID=4889
+2025-03-10T05:18:32.070 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:18:32.080 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/moveabsolute
+2025-03-10T05:18:32.081 INFO 192.168.137.1 -> {'ClientTransactionID': '126', 'ClientID': '4889', 'Position': '225'}
+2025-03-10T05:18:32.092 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=127&ClientID=4889
+2025-03-10T05:18:32.093 INFO 192.168.137.1 <- True
+2025-03-10T05:18:32.648 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=128&ClientID=4889
+2025-03-10T05:18:32.649 INFO 192.168.137.1 <- 138.0
+2025-03-10T05:18:32.659 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=129&ClientID=4889
+2025-03-10T05:18:32.660 INFO 192.168.137.1 <- True
+2025-03-10T05:18:33.195 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=130&ClientID=4889
+2025-03-10T05:18:33.196 INFO 192.168.137.1 <- 141.0
+2025-03-10T05:18:33.207 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=131&ClientID=4889
+2025-03-10T05:18:33.208 INFO 192.168.137.1 <- True
+2025-03-10T05:18:33.741 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=132&ClientID=4889
+2025-03-10T05:18:33.742 INFO 192.168.137.1 <- 144.0
+2025-03-10T05:18:33.752 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=133&ClientID=4889
+2025-03-10T05:18:33.753 INFO 192.168.137.1 <- True
+2025-03-10T05:18:34.308 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=134&ClientID=4889
+2025-03-10T05:18:34.309 INFO 192.168.137.1 <- 148.0
+2025-03-10T05:18:34.319 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=135&ClientID=4889
+2025-03-10T05:18:34.319 INFO 192.168.137.1 <- True
+2025-03-10T05:18:34.848 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=136&ClientID=4889
+2025-03-10T05:18:34.849 INFO 192.168.137.1 <- 151.0
+2025-03-10T05:18:34.861 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=137&ClientID=4889
+2025-03-10T05:18:34.862 INFO 192.168.137.1 <- True
+2025-03-10T05:18:35.414 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=138&ClientID=4889
+2025-03-10T05:18:35.415 INFO 192.168.137.1 <- 154.0
+2025-03-10T05:18:35.426 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=139&ClientID=4889
+2025-03-10T05:18:35.426 INFO 192.168.137.1 <- True
+2025-03-10T05:18:35.955 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=140&ClientID=4889
+2025-03-10T05:18:35.956 INFO 192.168.137.1 <- 158.0
+2025-03-10T05:18:35.964 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=141&ClientID=4889
+2025-03-10T05:18:35.965 INFO 192.168.137.1 <- True
+2025-03-10T05:18:36.498 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=142&ClientID=4889
+2025-03-10T05:18:36.499 INFO 192.168.137.1 <- 161.0
+2025-03-10T05:18:36.509 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=143&ClientID=4889
+2025-03-10T05:18:36.510 INFO 192.168.137.1 <- True
+2025-03-10T05:18:37.042 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=144&ClientID=4889
+2025-03-10T05:18:37.043 INFO 192.168.137.1 <- 164.0
+2025-03-10T05:18:37.052 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=145&ClientID=4889
+2025-03-10T05:18:37.053 INFO 192.168.137.1 <- True
+2025-03-10T05:18:37.608 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=146&ClientID=4889
+2025-03-10T05:18:37.608 INFO 192.168.137.1 <- 167.0
+2025-03-10T05:18:37.618 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=147&ClientID=4889
+2025-03-10T05:18:37.618 INFO 192.168.137.1 <- True
+2025-03-10T05:18:38.148 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=148&ClientID=4889
+2025-03-10T05:18:38.149 INFO 192.168.137.1 <- 171.0
+2025-03-10T05:18:38.157 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=149&ClientID=4889
+2025-03-10T05:18:38.158 INFO 192.168.137.1 <- True
+2025-03-10T05:18:38.687 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=150&ClientID=4889
+2025-03-10T05:18:38.688 INFO 192.168.137.1 <- 174.0
+2025-03-10T05:18:38.697 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=151&ClientID=4889
+2025-03-10T05:18:38.698 INFO 192.168.137.1 <- True
+2025-03-10T05:18:39.231 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=152&ClientID=4889
+2025-03-10T05:18:39.232 INFO 192.168.137.1 <- 177.0
+2025-03-10T05:18:39.242 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=153&ClientID=4889
+2025-03-10T05:18:39.243 INFO 192.168.137.1 <- True
+2025-03-10T05:18:39.795 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=154&ClientID=4889
+2025-03-10T05:18:39.796 INFO 192.168.137.1 <- 180.0
+2025-03-10T05:18:39.805 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=155&ClientID=4889
+2025-03-10T05:18:39.806 INFO 192.168.137.1 <- True
+2025-03-10T05:18:40.334 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=156&ClientID=4889
+2025-03-10T05:18:40.336 INFO 192.168.137.1 <- 184.0
+2025-03-10T05:18:40.345 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=157&ClientID=4889
+2025-03-10T05:18:40.345 INFO 192.168.137.1 <- True
+2025-03-10T05:18:40.877 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=158&ClientID=4889
+2025-03-10T05:18:40.878 INFO 192.168.137.1 <- 187.0
+2025-03-10T05:18:40.891 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=159&ClientID=4889
+2025-03-10T05:18:40.892 INFO 192.168.137.1 <- True
+2025-03-10T05:18:41.428 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=160&ClientID=4889
+2025-03-10T05:18:41.429 INFO 192.168.137.1 <- 190.0
+2025-03-10T05:18:41.438 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=161&ClientID=4889
+2025-03-10T05:18:41.439 INFO 192.168.137.1 <- True
+2025-03-10T05:18:41.972 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=162&ClientID=4889
+2025-03-10T05:18:41.973 INFO 192.168.137.1 <- 193.0
+2025-03-10T05:18:41.982 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=163&ClientID=4889
+2025-03-10T05:18:41.983 INFO 192.168.137.1 <- True
+2025-03-10T05:18:42.516 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=164&ClientID=4889
+2025-03-10T05:18:42.517 INFO 192.168.137.1 <- 197.0
+2025-03-10T05:18:42.526 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=165&ClientID=4889
+2025-03-10T05:18:42.527 INFO 192.168.137.1 <- True
+2025-03-10T05:18:43.079 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=166&ClientID=4889
+2025-03-10T05:18:43.080 INFO 192.168.137.1 <- 200.0
+2025-03-10T05:18:43.089 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=167&ClientID=4889
+2025-03-10T05:18:43.090 INFO 192.168.137.1 <- True
+2025-03-10T05:18:43.620 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=168&ClientID=4889
+2025-03-10T05:18:43.621 INFO 192.168.137.1 <- 203.0
+2025-03-10T05:18:43.631 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=169&ClientID=4889
+2025-03-10T05:18:43.632 INFO 192.168.137.1 <- True
+2025-03-10T05:18:44.187 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=170&ClientID=4889
+2025-03-10T05:18:44.188 INFO 192.168.137.1 <- 207.0
+2025-03-10T05:18:44.197 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=171&ClientID=4889
+2025-03-10T05:18:44.198 INFO 192.168.137.1 <- True
+2025-03-10T05:18:44.732 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=172&ClientID=4889
+2025-03-10T05:18:44.733 INFO 192.168.137.1 <- 210.0
+2025-03-10T05:18:44.743 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=173&ClientID=4889
+2025-03-10T05:18:44.744 INFO 192.168.137.1 <- True
+2025-03-10T05:18:45.276 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=174&ClientID=4889
+2025-03-10T05:18:45.277 INFO 192.168.137.1 <- 213.0
+2025-03-10T05:18:45.287 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=175&ClientID=4889
+2025-03-10T05:18:45.287 INFO 192.168.137.1 <- True
+2025-03-10T05:18:45.841 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=176&ClientID=4889
+2025-03-10T05:18:45.842 INFO 192.168.137.1 <- 217.0
+2025-03-10T05:18:45.851 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=177&ClientID=4889
+2025-03-10T05:18:45.852 INFO 192.168.137.1 <- True
+2025-03-10T05:18:46.403 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=178&ClientID=4889
+2025-03-10T05:18:46.405 INFO 192.168.137.1 <- 220.0
+2025-03-10T05:18:46.416 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=179&ClientID=4889
+2025-03-10T05:18:46.417 INFO 192.168.137.1 <- True
+2025-03-10T05:18:46.973 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=180&ClientID=4889
+2025-03-10T05:18:46.973 INFO 192.168.137.1 <- 223.0
+2025-03-10T05:18:46.983 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=181&ClientID=4889
+2025-03-10T05:18:46.983 INFO 192.168.137.1 <- True
+2025-03-10T05:18:47.538 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=182&ClientID=4889
+2025-03-10T05:18:47.539 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:18:47.548 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=183&ClientID=4889
+2025-03-10T05:18:47.550 INFO 192.168.137.1 <- False
+2025-03-10T05:18:47.561 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=184&ClientID=4889
+2025-03-10T05:18:47.562 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:18:47.582 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=185&ClientID=4889
+2025-03-10T05:18:47.583 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:18:47.597 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=186&ClientID=4889
+2025-03-10T05:18:47.597 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:18:47.605 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=187&ClientID=4889
+2025-03-10T05:18:47.607 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:18:47.648 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=188&ClientID=4889
+2025-03-10T05:18:47.653 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:18:47.660 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/moveabsolute
+2025-03-10T05:18:47.662 INFO 192.168.137.1 -> {'ClientTransactionID': '189', 'ClientID': '4889', 'Position': '315'}
+2025-03-10T05:18:47.671 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=190&ClientID=4889
+2025-03-10T05:18:47.673 INFO 192.168.137.1 <- True
+2025-03-10T05:18:48.205 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=191&ClientID=4889
+2025-03-10T05:18:48.206 INFO 192.168.137.1 <- 228.0
+2025-03-10T05:18:48.215 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=192&ClientID=4889
+2025-03-10T05:18:48.216 INFO 192.168.137.1 <- True
+2025-03-10T05:18:48.749 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=193&ClientID=4889
+2025-03-10T05:18:48.750 INFO 192.168.137.1 <- 231.0
+2025-03-10T05:18:48.759 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=194&ClientID=4889
+2025-03-10T05:18:48.760 INFO 192.168.137.1 <- True
+2025-03-10T05:18:49.294 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=195&ClientID=4889
+2025-03-10T05:18:49.295 INFO 192.168.137.1 <- 234.0
+2025-03-10T05:18:49.303 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=196&ClientID=4889
+2025-03-10T05:18:49.304 INFO 192.168.137.1 <- True
+2025-03-10T05:18:49.831 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=197&ClientID=4889
+2025-03-10T05:18:49.832 INFO 192.168.137.1 <- 237.0
+2025-03-10T05:18:49.841 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=198&ClientID=4889
+2025-03-10T05:18:49.841 INFO 192.168.137.1 <- True
+2025-03-10T05:18:50.370 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=199&ClientID=4889
+2025-03-10T05:18:50.371 INFO 192.168.137.1 <- 241.0
+2025-03-10T05:18:50.381 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=200&ClientID=4889
+2025-03-10T05:18:50.382 INFO 192.168.137.1 <- True
+2025-03-10T05:18:50.913 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=201&ClientID=4889
+2025-03-10T05:18:50.914 INFO 192.168.137.1 <- 244.0
+2025-03-10T05:18:50.922 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=202&ClientID=4889
+2025-03-10T05:18:50.923 INFO 192.168.137.1 <- True
+2025-03-10T05:18:51.456 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=203&ClientID=4889
+2025-03-10T05:18:51.456 INFO 192.168.137.1 <- 247.0
+2025-03-10T05:18:51.465 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=204&ClientID=4889
+2025-03-10T05:18:51.466 INFO 192.168.137.1 <- True
+2025-03-10T05:18:51.997 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=205&ClientID=4889
+2025-03-10T05:18:51.998 INFO 192.168.137.1 <- 250.0
+2025-03-10T05:18:52.007 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=206&ClientID=4889
+2025-03-10T05:18:52.008 INFO 192.168.137.1 <- True
+2025-03-10T05:18:52.538 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=207&ClientID=4889
+2025-03-10T05:18:52.539 INFO 192.168.137.1 <- 254.0
+2025-03-10T05:18:52.550 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=208&ClientID=4889
+2025-03-10T05:18:52.551 INFO 192.168.137.1 <- True
+2025-03-10T05:18:53.103 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=209&ClientID=4889
+2025-03-10T05:18:53.104 INFO 192.168.137.1 <- 257.0
+2025-03-10T05:18:53.114 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=210&ClientID=4889
+2025-03-10T05:18:53.114 INFO 192.168.137.1 <- True
+2025-03-10T05:18:53.665 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=211&ClientID=4889
+2025-03-10T05:18:53.666 INFO 192.168.137.1 <- 260.0
+2025-03-10T05:18:53.675 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=212&ClientID=4889
+2025-03-10T05:18:53.676 INFO 192.168.137.1 <- True
+2025-03-10T05:18:54.209 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=213&ClientID=4889
+2025-03-10T05:18:54.210 INFO 192.168.137.1 <- 263.0
+2025-03-10T05:18:54.219 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=214&ClientID=4889
+2025-03-10T05:18:54.220 INFO 192.168.137.1 <- True
+2025-03-10T05:18:54.774 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=215&ClientID=4889
+2025-03-10T05:18:54.774 INFO 192.168.137.1 <- 267.0
+2025-03-10T05:18:54.782 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=216&ClientID=4889
+2025-03-10T05:18:54.783 INFO 192.168.137.1 <- True
+2025-03-10T05:18:55.313 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=217&ClientID=4889
+2025-03-10T05:18:55.313 INFO 192.168.137.1 <- 270.0
+2025-03-10T05:18:55.324 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=218&ClientID=4889
+2025-03-10T05:18:55.326 INFO 192.168.137.1 <- True
+2025-03-10T05:18:55.882 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=219&ClientID=4889
+2025-03-10T05:18:55.883 INFO 192.168.137.1 <- 273.0
+2025-03-10T05:18:55.892 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=220&ClientID=4889
+2025-03-10T05:18:55.896 INFO 192.168.137.1 <- True
+2025-03-10T05:18:56.429 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=221&ClientID=4889
+2025-03-10T05:18:56.430 INFO 192.168.137.1 <- 277.0
+2025-03-10T05:18:56.440 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=222&ClientID=4889
+2025-03-10T05:18:56.441 INFO 192.168.137.1 <- True
+2025-03-10T05:18:56.973 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=223&ClientID=4889
+2025-03-10T05:18:56.974 INFO 192.168.137.1 <- 280.0
+2025-03-10T05:18:56.985 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=224&ClientID=4889
+2025-03-10T05:18:56.985 INFO 192.168.137.1 <- True
+2025-03-10T05:18:57.544 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=225&ClientID=4889
+2025-03-10T05:18:57.545 INFO 192.168.137.1 <- 283.0
+2025-03-10T05:18:57.555 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=226&ClientID=4889
+2025-03-10T05:18:57.556 INFO 192.168.137.1 <- True
+2025-03-10T05:18:58.086 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=227&ClientID=4889
+2025-03-10T05:18:58.087 INFO 192.168.137.1 <- 287.0
+2025-03-10T05:18:58.097 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=228&ClientID=4889
+2025-03-10T05:18:58.098 INFO 192.168.137.1 <- True
+2025-03-10T05:18:58.632 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=229&ClientID=4889
+2025-03-10T05:18:58.633 INFO 192.168.137.1 <- 290.0
+2025-03-10T05:18:58.641 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=230&ClientID=4889
+2025-03-10T05:18:58.642 INFO 192.168.137.1 <- True
+2025-03-10T05:18:59.185 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=231&ClientID=4889
+2025-03-10T05:18:59.189 INFO 192.168.137.1 <- 293.0
+2025-03-10T05:18:59.201 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=232&ClientID=4889
+2025-03-10T05:18:59.202 INFO 192.168.137.1 <- True
+2025-03-10T05:18:59.729 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=233&ClientID=4889
+2025-03-10T05:18:59.730 INFO 192.168.137.1 <- 296.0
+2025-03-10T05:18:59.739 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=234&ClientID=4889
+2025-03-10T05:18:59.740 INFO 192.168.137.1 <- True
+2025-03-10T05:19:00.272 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=235&ClientID=4889
+2025-03-10T05:19:00.273 INFO 192.168.137.1 <- 299.0
+2025-03-10T05:19:00.282 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=236&ClientID=4889
+2025-03-10T05:19:00.283 INFO 192.168.137.1 <- True
+2025-03-10T05:19:00.839 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=237&ClientID=4889
+2025-03-10T05:19:00.840 INFO 192.168.137.1 <- 303.0
+2025-03-10T05:19:00.849 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=238&ClientID=4889
+2025-03-10T05:19:00.850 INFO 192.168.137.1 <- True
+2025-03-10T05:19:01.405 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=239&ClientID=4889
+2025-03-10T05:19:01.406 INFO 192.168.137.1 <- 306.0
+2025-03-10T05:19:01.416 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=240&ClientID=4889
+2025-03-10T05:19:01.417 INFO 192.168.137.1 <- True
+2025-03-10T05:19:01.948 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=241&ClientID=4889
+2025-03-10T05:19:01.949 INFO 192.168.137.1 <- 309.0
+2025-03-10T05:19:01.957 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=242&ClientID=4889
+2025-03-10T05:19:01.958 INFO 192.168.137.1 <- True
+2025-03-10T05:19:02.490 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=243&ClientID=4889
+2025-03-10T05:19:02.491 INFO 192.168.137.1 <- 312.0
+2025-03-10T05:19:02.504 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=244&ClientID=4889
+2025-03-10T05:19:02.505 INFO 192.168.137.1 <- True
+2025-03-10T05:19:03.056 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=245&ClientID=4889
+2025-03-10T05:19:03.057 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.067 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=246&ClientID=4889
+2025-03-10T05:19:03.068 INFO 192.168.137.1 <- False
+2025-03-10T05:19:03.076 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=247&ClientID=4889
+2025-03-10T05:19:03.077 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.097 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=248&ClientID=4889
+2025-03-10T05:19:03.100 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.110 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=249&ClientID=4889
+2025-03-10T05:19:03.111 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.120 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=250&ClientID=4889
+2025-03-10T05:19:03.121 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.164 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=251&ClientID=4889
+2025-03-10T05:19:03.165 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.173 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/moveabsolute
+2025-03-10T05:19:03.174 INFO 192.168.137.1 -> {'ClientTransactionID': '252', 'ClientID': '4889', 'Position': '-405'}
+2025-03-10T05:19:03.176 ERROR InvalidValueException: Position out of range: -405.0
+2025-03-10T05:19:03.326 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=253&ClientID=4889
+2025-03-10T05:19:03.328 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.340 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/moveabsolute
+2025-03-10T05:19:03.342 INFO 192.168.137.1 -> {'ClientTransactionID': '254', 'ClientID': '4889', 'Position': '405'}
+2025-03-10T05:19:03.344 ERROR InvalidValueException: Position out of range: 405.0
+2025-03-10T05:19:03.392 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=255&ClientID=4889
+2025-03-10T05:19:03.393 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.421 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=256&ClientID=4889
+2025-03-10T05:19:03.422 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.437 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=257&ClientID=4889
+2025-03-10T05:19:03.437 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:03.446 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:19:03.447 INFO 192.168.137.1 -> {'ClientTransactionID': '258', 'ClientID': '4889', 'Position': '-10'}
+2025-03-10T05:19:03.466 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=259&ClientID=4889
+2025-03-10T05:19:03.467 INFO 192.168.137.1 <- True
+2025-03-10T05:19:04.019 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=260&ClientID=4889
+2025-03-10T05:19:04.020 INFO 192.168.137.1 <- 312.0
+2025-03-10T05:19:04.029 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=261&ClientID=4889
+2025-03-10T05:19:04.030 INFO 192.168.137.1 <- True
+2025-03-10T05:19:04.560 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=262&ClientID=4889
+2025-03-10T05:19:04.561 INFO 192.168.137.1 <- 309.0
+2025-03-10T05:19:04.570 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=263&ClientID=4889
+2025-03-10T05:19:04.571 INFO 192.168.137.1 <- True
+2025-03-10T05:19:05.103 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=264&ClientID=4889
+2025-03-10T05:19:05.104 INFO 192.168.137.1 <- 306.0
+2025-03-10T05:19:05.114 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=265&ClientID=4889
+2025-03-10T05:19:05.115 INFO 192.168.137.1 <- True
+2025-03-10T05:19:05.665 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=266&ClientID=4889
+2025-03-10T05:19:05.666 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:05.676 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=267&ClientID=4889
+2025-03-10T05:19:05.676 INFO 192.168.137.1 <- False
+2025-03-10T05:19:05.688 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=268&ClientID=4889
+2025-03-10T05:19:05.689 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:05.706 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=269&ClientID=4889
+2025-03-10T05:19:05.707 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:05.716 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=270&ClientID=4889
+2025-03-10T05:19:05.717 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:05.729 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=271&ClientID=4889
+2025-03-10T05:19:05.731 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:05.774 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=272&ClientID=4889
+2025-03-10T05:19:05.775 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:05.784 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=273&ClientID=4889
+2025-03-10T05:19:05.786 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:05.795 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:19:05.800 INFO 192.168.137.1 -> {'ClientTransactionID': '274', 'ClientID': '4889', 'Position': '10'}
+2025-03-10T05:19:05.810 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=275&ClientID=4889
+2025-03-10T05:19:05.811 INFO 192.168.137.1 <- True
+2025-03-10T05:19:06.366 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=276&ClientID=4889
+2025-03-10T05:19:06.368 INFO 192.168.137.1 <- 308.0
+2025-03-10T05:19:06.383 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=277&ClientID=4889
+2025-03-10T05:19:06.384 INFO 192.168.137.1 <- True
+2025-03-10T05:19:06.923 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=278&ClientID=4889
+2025-03-10T05:19:06.924 INFO 192.168.137.1 <- 311.0
+2025-03-10T05:19:06.934 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=279&ClientID=4889
+2025-03-10T05:19:06.935 INFO 192.168.137.1 <- True
+2025-03-10T05:19:07.470 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=280&ClientID=4889
+2025-03-10T05:19:07.470 INFO 192.168.137.1 <- 314.0
+2025-03-10T05:19:07.481 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=281&ClientID=4889
+2025-03-10T05:19:07.483 INFO 192.168.137.1 <- True
+2025-03-10T05:19:08.025 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=282&ClientID=4889
+2025-03-10T05:19:08.026 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.040 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=283&ClientID=4889
+2025-03-10T05:19:08.047 INFO 192.168.137.1 <- False
+2025-03-10T05:19:08.068 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=284&ClientID=4889
+2025-03-10T05:19:08.069 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.096 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=285&ClientID=4889
+2025-03-10T05:19:08.102 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.119 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=286&ClientID=4889
+2025-03-10T05:19:08.131 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.152 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=287&ClientID=4889
+2025-03-10T05:19:08.153 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.221 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=288&ClientID=4889
+2025-03-10T05:19:08.222 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.238 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=289&ClientID=4889
+2025-03-10T05:19:08.302 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.513 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=290&ClientID=4889
+2025-03-10T05:19:08.516 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:08.524 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:19:08.525 INFO 192.168.137.1 -> {'ClientTransactionID': '291', 'ClientID': '4889', 'Position': '-40'}
+2025-03-10T05:19:08.538 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=292&ClientID=4889
+2025-03-10T05:19:08.539 INFO 192.168.137.1 <- True
+2025-03-10T05:19:09.083 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=293&ClientID=4889
+2025-03-10T05:19:09.084 INFO 192.168.137.1 <- 312.0
+2025-03-10T05:19:09.093 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=294&ClientID=4889
+2025-03-10T05:19:09.095 INFO 192.168.137.1 <- True
+2025-03-10T05:19:09.632 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=295&ClientID=4889
+2025-03-10T05:19:09.636 INFO 192.168.137.1 <- 309.0
+2025-03-10T05:19:09.652 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=296&ClientID=4889
+2025-03-10T05:19:09.652 INFO 192.168.137.1 <- True
+2025-03-10T05:19:10.187 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=297&ClientID=4889
+2025-03-10T05:19:10.188 INFO 192.168.137.1 <- 306.0
+2025-03-10T05:19:10.202 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=298&ClientID=4889
+2025-03-10T05:19:10.205 INFO 192.168.137.1 <- True
+2025-03-10T05:19:10.743 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=299&ClientID=4889
+2025-03-10T05:19:10.744 INFO 192.168.137.1 <- 302.0
+2025-03-10T05:19:10.756 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=300&ClientID=4889
+2025-03-10T05:19:10.758 INFO 192.168.137.1 <- True
+2025-03-10T05:19:11.292 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=301&ClientID=4889
+2025-03-10T05:19:11.294 INFO 192.168.137.1 <- 299.0
+2025-03-10T05:19:11.306 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=302&ClientID=4889
+2025-03-10T05:19:11.307 INFO 192.168.137.1 <- True
+2025-03-10T05:19:11.836 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=303&ClientID=4889
+2025-03-10T05:19:11.838 INFO 192.168.137.1 <- 296.0
+2025-03-10T05:19:11.850 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=304&ClientID=4889
+2025-03-10T05:19:11.850 INFO 192.168.137.1 <- True
+2025-03-10T05:19:12.379 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=305&ClientID=4889
+2025-03-10T05:19:12.380 INFO 192.168.137.1 <- 293.0
+2025-03-10T05:19:12.390 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=306&ClientID=4889
+2025-03-10T05:19:12.394 INFO 192.168.137.1 <- True
+2025-03-10T05:19:12.924 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=307&ClientID=4889
+2025-03-10T05:19:12.926 INFO 192.168.137.1 <- 289.0
+2025-03-10T05:19:12.940 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=308&ClientID=4889
+2025-03-10T05:19:12.941 INFO 192.168.137.1 <- True
+2025-03-10T05:19:13.492 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=309&ClientID=4889
+2025-03-10T05:19:13.508 INFO 192.168.137.1 <- 286.0
+2025-03-10T05:19:13.524 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=310&ClientID=4889
+2025-03-10T05:19:13.525 INFO 192.168.137.1 <- True
+2025-03-10T05:19:14.065 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=311&ClientID=4889
+2025-03-10T05:19:14.066 INFO 192.168.137.1 <- 283.0
+2025-03-10T05:19:14.077 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=312&ClientID=4889
+2025-03-10T05:19:14.079 INFO 192.168.137.1 <- True
+2025-03-10T05:19:14.623 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=313&ClientID=4889
+2025-03-10T05:19:14.625 INFO 192.168.137.1 <- 279.0
+2025-03-10T05:19:14.650 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=314&ClientID=4889
+2025-03-10T05:19:14.654 INFO 192.168.137.1 <- True
+2025-03-10T05:19:15.189 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=315&ClientID=4889
+2025-03-10T05:19:15.190 INFO 192.168.137.1 <- 276.0
+2025-03-10T05:19:15.220 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=316&ClientID=4889
+2025-03-10T05:19:15.221 INFO 192.168.137.1 <- True
+2025-03-10T05:19:15.753 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=317&ClientID=4889
+2025-03-10T05:19:15.754 INFO 192.168.137.1 <- 275.0
+2025-03-10T05:19:15.765 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=318&ClientID=4889
+2025-03-10T05:19:15.765 INFO 192.168.137.1 <- False
+2025-03-10T05:19:15.775 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=319&ClientID=4889
+2025-03-10T05:19:15.775 INFO 192.168.137.1 <- 275.0
+2025-03-10T05:19:15.794 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=320&ClientID=4889
+2025-03-10T05:19:15.797 INFO 192.168.137.1 <- 275.0
+2025-03-10T05:19:15.806 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=321&ClientID=4889
+2025-03-10T05:19:15.808 INFO 192.168.137.1 <- 275.0
+2025-03-10T05:19:15.817 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=322&ClientID=4889
+2025-03-10T05:19:15.818 INFO 192.168.137.1 <- 275.0
+2025-03-10T05:19:15.861 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=323&ClientID=4889
+2025-03-10T05:19:15.861 INFO 192.168.137.1 <- 275.0
+2025-03-10T05:19:15.881 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=324&ClientID=4889
+2025-03-10T05:19:15.883 INFO 192.168.137.1 <- 275.0
+2025-03-10T05:19:15.894 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:19:15.897 INFO 192.168.137.1 -> {'ClientTransactionID': '325', 'ClientID': '4889', 'Position': '40'}
+2025-03-10T05:19:15.904 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=326&ClientID=4889
+2025-03-10T05:19:15.905 INFO 192.168.137.1 <- True
+2025-03-10T05:19:16.461 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=327&ClientID=4889
+2025-03-10T05:19:16.464 INFO 192.168.137.1 <- 278.0
+2025-03-10T05:19:16.478 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=328&ClientID=4889
+2025-03-10T05:19:16.479 INFO 192.168.137.1 <- True
+2025-03-10T05:19:17.202 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=329&ClientID=4889
+2025-03-10T05:19:17.205 INFO 192.168.137.1 <- 282.0
+2025-03-10T05:19:17.217 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=330&ClientID=4889
+2025-03-10T05:19:17.223 INFO 192.168.137.1 <- True
+2025-03-10T05:19:17.756 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=331&ClientID=4889
+2025-03-10T05:19:17.757 INFO 192.168.137.1 <- 285.0
+2025-03-10T05:19:17.767 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=332&ClientID=4889
+2025-03-10T05:19:17.768 INFO 192.168.137.1 <- True
+2025-03-10T05:19:18.299 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=333&ClientID=4889
+2025-03-10T05:19:18.300 INFO 192.168.137.1 <- 288.0
+2025-03-10T05:19:18.310 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=334&ClientID=4889
+2025-03-10T05:19:18.311 INFO 192.168.137.1 <- True
+2025-03-10T05:19:18.888 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=335&ClientID=4889
+2025-03-10T05:19:18.893 INFO 192.168.137.1 <- 291.0
+2025-03-10T05:19:18.908 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=336&ClientID=4889
+2025-03-10T05:19:18.909 INFO 192.168.137.1 <- True
+2025-03-10T05:19:19.454 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=337&ClientID=4889
+2025-03-10T05:19:19.455 INFO 192.168.137.1 <- 295.0
+2025-03-10T05:19:19.465 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=338&ClientID=4889
+2025-03-10T05:19:19.465 INFO 192.168.137.1 <- True
+2025-03-10T05:19:19.994 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=339&ClientID=4889
+2025-03-10T05:19:19.995 INFO 192.168.137.1 <- 298.0
+2025-03-10T05:19:20.006 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=340&ClientID=4889
+2025-03-10T05:19:20.007 INFO 192.168.137.1 <- True
+2025-03-10T05:19:20.563 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=341&ClientID=4889
+2025-03-10T05:19:20.564 INFO 192.168.137.1 <- 301.0
+2025-03-10T05:19:20.578 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=342&ClientID=4889
+2025-03-10T05:19:20.580 INFO 192.168.137.1 <- True
+2025-03-10T05:19:21.115 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=343&ClientID=4889
+2025-03-10T05:19:21.116 INFO 192.168.137.1 <- 305.0
+2025-03-10T05:19:21.125 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=344&ClientID=4889
+2025-03-10T05:19:21.127 INFO 192.168.137.1 <- True
+2025-03-10T05:19:21.680 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=345&ClientID=4889
+2025-03-10T05:19:21.681 INFO 192.168.137.1 <- 308.0
+2025-03-10T05:19:21.690 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=346&ClientID=4889
+2025-03-10T05:19:21.695 INFO 192.168.137.1 <- True
+2025-03-10T05:19:22.223 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=347&ClientID=4889
+2025-03-10T05:19:22.224 INFO 192.168.137.1 <- 311.0
+2025-03-10T05:19:22.234 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=348&ClientID=4889
+2025-03-10T05:19:22.241 INFO 192.168.137.1 <- True
+2025-03-10T05:19:22.784 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=349&ClientID=4889
+2025-03-10T05:19:22.785 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:22.798 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=350&ClientID=4889
+2025-03-10T05:19:22.800 INFO 192.168.137.1 <- True
+2025-03-10T05:19:23.342 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=351&ClientID=4889
+2025-03-10T05:19:23.343 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.353 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=352&ClientID=4889
+2025-03-10T05:19:23.354 INFO 192.168.137.1 <- False
+2025-03-10T05:19:23.366 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=353&ClientID=4889
+2025-03-10T05:19:23.367 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.400 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=354&ClientID=4889
+2025-03-10T05:19:23.401 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.414 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=355&ClientID=4889
+2025-03-10T05:19:23.419 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.430 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=356&ClientID=4889
+2025-03-10T05:19:23.431 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.496 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=357&ClientID=4889
+2025-03-10T05:19:23.497 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.509 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=358&ClientID=4889
+2025-03-10T05:19:23.510 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.525 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=359&ClientID=4889
+2025-03-10T05:19:23.531 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:19:23.537 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:19:23.539 INFO 192.168.137.1 -> {'ClientTransactionID': '360', 'ClientID': '4889', 'Position': '-130'}
+2025-03-10T05:19:23.551 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=361&ClientID=4889
+2025-03-10T05:19:23.552 INFO 192.168.137.1 <- True
+2025-03-10T05:19:24.098 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=362&ClientID=4889
+2025-03-10T05:19:24.099 INFO 192.168.137.1 <- 312.0
+2025-03-10T05:19:24.110 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=363&ClientID=4889
+2025-03-10T05:19:24.111 INFO 192.168.137.1 <- True
+2025-03-10T05:19:24.667 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=364&ClientID=4889
+2025-03-10T05:19:24.676 INFO 192.168.137.1 <- 309.0
+2025-03-10T05:19:24.692 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=365&ClientID=4889
+2025-03-10T05:19:24.695 INFO 192.168.137.1 <- True
+2025-03-10T05:19:25.235 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=366&ClientID=4889
+2025-03-10T05:19:25.236 INFO 192.168.137.1 <- 306.0
+2025-03-10T05:19:25.248 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=367&ClientID=4889
+2025-03-10T05:19:25.251 INFO 192.168.137.1 <- True
+2025-03-10T05:19:25.846 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=368&ClientID=4889
+2025-03-10T05:19:25.848 INFO 192.168.137.1 <- 302.0
+2025-03-10T05:19:25.871 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=369&ClientID=4889
+2025-03-10T05:19:25.874 INFO 192.168.137.1 <- True
+2025-03-10T05:19:26.416 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=370&ClientID=4889
+2025-03-10T05:19:26.423 INFO 192.168.137.1 <- 298.0
+2025-03-10T05:19:26.438 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=371&ClientID=4889
+2025-03-10T05:19:26.442 INFO 192.168.137.1 <- True
+2025-03-10T05:19:26.996 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=372&ClientID=4889
+2025-03-10T05:19:26.998 INFO 192.168.137.1 <- 295.0
+2025-03-10T05:19:27.014 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=373&ClientID=4889
+2025-03-10T05:19:27.022 INFO 192.168.137.1 <- True
+2025-03-10T05:19:27.573 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=374&ClientID=4889
+2025-03-10T05:19:27.578 INFO 192.168.137.1 <- 292.0
+2025-03-10T05:19:27.600 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=375&ClientID=4889
+2025-03-10T05:19:27.602 INFO 192.168.137.1 <- True
+2025-03-10T05:19:28.155 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=376&ClientID=4889
+2025-03-10T05:19:28.181 INFO 192.168.137.1 <- 288.0
+2025-03-10T05:19:28.196 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=377&ClientID=4889
+2025-03-10T05:19:28.200 INFO 192.168.137.1 <- True
+2025-03-10T05:19:28.741 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=378&ClientID=4889
+2025-03-10T05:19:28.746 INFO 192.168.137.1 <- 285.0
+2025-03-10T05:19:28.768 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=379&ClientID=4889
+2025-03-10T05:19:28.771 INFO 192.168.137.1 <- True
+2025-03-10T05:19:29.317 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=380&ClientID=4889
+2025-03-10T05:19:29.318 INFO 192.168.137.1 <- 282.0
+2025-03-10T05:19:29.325 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=381&ClientID=4889
+2025-03-10T05:19:29.326 INFO 192.168.137.1 <- True
+2025-03-10T05:19:29.856 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=382&ClientID=4889
+2025-03-10T05:19:29.858 INFO 192.168.137.1 <- 279.0
+2025-03-10T05:19:29.869 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=383&ClientID=4889
+2025-03-10T05:19:29.871 INFO 192.168.137.1 <- True
+2025-03-10T05:19:30.431 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=384&ClientID=4889
+2025-03-10T05:19:30.441 INFO 192.168.137.1 <- 276.0
+2025-03-10T05:19:30.462 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=385&ClientID=4889
+2025-03-10T05:19:30.464 INFO 192.168.137.1 <- True
+2025-03-10T05:19:31.070 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=386&ClientID=4889
+2025-03-10T05:19:31.074 INFO 192.168.137.1 <- 273.0
+2025-03-10T05:19:31.106 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=387&ClientID=4889
+2025-03-10T05:19:31.107 INFO 192.168.137.1 <- True
+2025-03-10T05:19:31.640 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=388&ClientID=4889
+2025-03-10T05:19:31.640 INFO 192.168.137.1 <- 269.0
+2025-03-10T05:19:31.652 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=389&ClientID=4889
+2025-03-10T05:19:31.653 INFO 192.168.137.1 <- True
+2025-03-10T05:19:32.208 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=390&ClientID=4889
+2025-03-10T05:19:32.209 INFO 192.168.137.1 <- 266.0
+2025-03-10T05:19:32.220 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=391&ClientID=4889
+2025-03-10T05:19:32.221 INFO 192.168.137.1 <- True
+2025-03-10T05:19:32.778 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=392&ClientID=4889
+2025-03-10T05:19:32.778 INFO 192.168.137.1 <- 263.0
+2025-03-10T05:19:32.792 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=393&ClientID=4889
+2025-03-10T05:19:32.794 INFO 192.168.137.1 <- True
+2025-03-10T05:19:33.328 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=394&ClientID=4889
+2025-03-10T05:19:33.328 INFO 192.168.137.1 <- 259.0
+2025-03-10T05:19:33.340 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=395&ClientID=4889
+2025-03-10T05:19:33.344 INFO 192.168.137.1 <- True
+2025-03-10T05:19:33.878 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=396&ClientID=4889
+2025-03-10T05:19:33.879 INFO 192.168.137.1 <- 256.0
+2025-03-10T05:19:33.890 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=397&ClientID=4889
+2025-03-10T05:19:33.893 INFO 192.168.137.1 <- True
+2025-03-10T05:19:34.424 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=398&ClientID=4889
+2025-03-10T05:19:34.425 INFO 192.168.137.1 <- 253.0
+2025-03-10T05:19:34.441 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=399&ClientID=4889
+2025-03-10T05:19:34.443 INFO 192.168.137.1 <- True
+2025-03-10T05:19:34.999 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=400&ClientID=4889
+2025-03-10T05:19:34.999 INFO 192.168.137.1 <- 249.0
+2025-03-10T05:19:35.016 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=401&ClientID=4889
+2025-03-10T05:19:35.017 INFO 192.168.137.1 <- True
+2025-03-10T05:19:35.548 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=402&ClientID=4889
+2025-03-10T05:19:35.551 INFO 192.168.137.1 <- 246.0
+2025-03-10T05:19:35.565 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=403&ClientID=4889
+2025-03-10T05:19:35.565 INFO 192.168.137.1 <- True
+2025-03-10T05:19:36.100 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=404&ClientID=4889
+2025-03-10T05:19:36.101 INFO 192.168.137.1 <- 243.0
+2025-03-10T05:19:36.114 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=405&ClientID=4889
+2025-03-10T05:19:36.117 INFO 192.168.137.1 <- True
+2025-03-10T05:19:36.676 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=406&ClientID=4889
+2025-03-10T05:19:36.677 INFO 192.168.137.1 <- 239.0
+2025-03-10T05:19:36.688 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=407&ClientID=4889
+2025-03-10T05:19:36.689 INFO 192.168.137.1 <- True
+2025-03-10T05:19:37.251 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=408&ClientID=4889
+2025-03-10T05:19:37.255 INFO 192.168.137.1 <- 236.0
+2025-03-10T05:19:37.270 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=409&ClientID=4889
+2025-03-10T05:19:37.271 INFO 192.168.137.1 <- True
+2025-03-10T05:19:37.807 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=410&ClientID=4889
+2025-03-10T05:19:37.807 INFO 192.168.137.1 <- 233.0
+2025-03-10T05:19:37.816 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=411&ClientID=4889
+2025-03-10T05:19:37.818 INFO 192.168.137.1 <- True
+2025-03-10T05:19:38.378 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=412&ClientID=4889
+2025-03-10T05:19:38.379 INFO 192.168.137.1 <- 230.0
+2025-03-10T05:19:38.391 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=413&ClientID=4889
+2025-03-10T05:19:38.396 INFO 192.168.137.1 <- True
+2025-03-10T05:19:38.934 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=414&ClientID=4889
+2025-03-10T05:19:38.935 INFO 192.168.137.1 <- 226.0
+2025-03-10T05:19:38.949 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=415&ClientID=4889
+2025-03-10T05:19:38.950 INFO 192.168.137.1 <- True
+2025-03-10T05:19:39.509 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=416&ClientID=4889
+2025-03-10T05:19:39.511 INFO 192.168.137.1 <- 223.0
+2025-03-10T05:19:39.520 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=417&ClientID=4889
+2025-03-10T05:19:39.523 INFO 192.168.137.1 <- True
+2025-03-10T05:19:40.051 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=418&ClientID=4889
+2025-03-10T05:19:40.056 INFO 192.168.137.1 <- 220.0
+2025-03-10T05:19:40.071 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=419&ClientID=4889
+2025-03-10T05:19:40.071 INFO 192.168.137.1 <- True
+2025-03-10T05:19:40.602 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=420&ClientID=4889
+2025-03-10T05:19:40.603 INFO 192.168.137.1 <- 216.0
+2025-03-10T05:19:40.620 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=421&ClientID=4889
+2025-03-10T05:19:40.625 INFO 192.168.137.1 <- True
+2025-03-10T05:19:41.173 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=422&ClientID=4889
+2025-03-10T05:19:41.174 INFO 192.168.137.1 <- 213.0
+2025-03-10T05:19:41.184 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=423&ClientID=4889
+2025-03-10T05:19:41.185 INFO 192.168.137.1 <- True
+2025-03-10T05:19:41.717 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=424&ClientID=4889
+2025-03-10T05:19:41.718 INFO 192.168.137.1 <- 210.0
+2025-03-10T05:19:41.730 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=425&ClientID=4889
+2025-03-10T05:19:41.731 INFO 192.168.137.1 <- True
+2025-03-10T05:19:42.264 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=426&ClientID=4889
+2025-03-10T05:19:42.264 INFO 192.168.137.1 <- 207.0
+2025-03-10T05:19:42.277 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=427&ClientID=4889
+2025-03-10T05:19:42.281 INFO 192.168.137.1 <- True
+2025-03-10T05:19:42.840 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=428&ClientID=4889
+2025-03-10T05:19:42.841 INFO 192.168.137.1 <- 203.0
+2025-03-10T05:19:42.850 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=429&ClientID=4889
+2025-03-10T05:19:42.852 INFO 192.168.137.1 <- True
+2025-03-10T05:19:43.385 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=430&ClientID=4889
+2025-03-10T05:19:43.386 INFO 192.168.137.1 <- 200.0
+2025-03-10T05:19:43.397 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=431&ClientID=4889
+2025-03-10T05:19:43.398 INFO 192.168.137.1 <- True
+2025-03-10T05:19:43.940 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=432&ClientID=4889
+2025-03-10T05:19:43.941 INFO 192.168.137.1 <- 197.0
+2025-03-10T05:19:43.954 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=433&ClientID=4889
+2025-03-10T05:19:43.955 INFO 192.168.137.1 <- True
+2025-03-10T05:19:44.486 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=434&ClientID=4889
+2025-03-10T05:19:44.487 INFO 192.168.137.1 <- 193.0
+2025-03-10T05:19:44.497 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=435&ClientID=4889
+2025-03-10T05:19:44.498 INFO 192.168.137.1 <- True
+2025-03-10T05:19:45.032 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=436&ClientID=4889
+2025-03-10T05:19:45.033 INFO 192.168.137.1 <- 190.0
+2025-03-10T05:19:45.046 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=437&ClientID=4889
+2025-03-10T05:19:45.047 INFO 192.168.137.1 <- True
+2025-03-10T05:19:45.585 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=438&ClientID=4889
+2025-03-10T05:19:45.586 INFO 192.168.137.1 <- 187.0
+2025-03-10T05:19:45.600 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=439&ClientID=4889
+2025-03-10T05:19:45.602 INFO 192.168.137.1 <- True
+2025-03-10T05:19:46.137 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=440&ClientID=4889
+2025-03-10T05:19:46.137 INFO 192.168.137.1 <- 185.0
+2025-03-10T05:19:46.155 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=441&ClientID=4889
+2025-03-10T05:19:46.158 INFO 192.168.137.1 <- False
+2025-03-10T05:19:46.173 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=442&ClientID=4889
+2025-03-10T05:19:46.176 INFO 192.168.137.1 <- 185.0
+2025-03-10T05:19:46.218 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=443&ClientID=4889
+2025-03-10T05:19:46.220 INFO 192.168.137.1 <- 185.0
+2025-03-10T05:19:46.233 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=444&ClientID=4889
+2025-03-10T05:19:46.233 INFO 192.168.137.1 <- 185.0
+2025-03-10T05:19:46.252 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=445&ClientID=4889
+2025-03-10T05:19:46.253 INFO 192.168.137.1 <- 185.0
+2025-03-10T05:19:46.296 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=446&ClientID=4889
+2025-03-10T05:19:46.297 INFO 192.168.137.1 <- 185.0
+2025-03-10T05:19:46.305 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=447&ClientID=4889
+2025-03-10T05:19:46.306 INFO 192.168.137.1 <- 185.0
+2025-03-10T05:19:46.314 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:19:46.315 INFO 192.168.137.1 -> {'ClientTransactionID': '448', 'ClientID': '4889', 'Position': '130'}
+2025-03-10T05:19:46.324 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=449&ClientID=4889
+2025-03-10T05:19:46.324 INFO 192.168.137.1 <- True
+2025-03-10T05:19:46.867 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=450&ClientID=4889
+2025-03-10T05:19:46.868 INFO 192.168.137.1 <- 188.0
+2025-03-10T05:19:46.878 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=451&ClientID=4889
+2025-03-10T05:19:46.879 INFO 192.168.137.1 <- True
+2025-03-10T05:19:47.445 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=452&ClientID=4889
+2025-03-10T05:19:47.448 INFO 192.168.137.1 <- 191.0
+2025-03-10T05:19:47.482 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=453&ClientID=4889
+2025-03-10T05:19:47.488 INFO 192.168.137.1 <- True
+2025-03-10T05:19:48.024 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=454&ClientID=4889
+2025-03-10T05:19:48.024 INFO 192.168.137.1 <- 194.0
+2025-03-10T05:19:48.034 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=455&ClientID=4889
+2025-03-10T05:19:48.035 INFO 192.168.137.1 <- True
+2025-03-10T05:19:48.568 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=456&ClientID=4889
+2025-03-10T05:19:48.568 INFO 192.168.137.1 <- 197.0
+2025-03-10T05:19:48.580 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=457&ClientID=4889
+2025-03-10T05:19:48.581 INFO 192.168.137.1 <- True
+2025-03-10T05:19:49.123 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=458&ClientID=4889
+2025-03-10T05:19:49.124 INFO 192.168.137.1 <- 201.0
+2025-03-10T05:19:49.135 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=459&ClientID=4889
+2025-03-10T05:19:49.136 INFO 192.168.137.1 <- True
+2025-03-10T05:19:49.667 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=460&ClientID=4889
+2025-03-10T05:19:49.668 INFO 192.168.137.1 <- 204.0
+2025-03-10T05:19:49.680 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=461&ClientID=4889
+2025-03-10T05:19:49.680 INFO 192.168.137.1 <- True
+2025-03-10T05:19:50.219 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=462&ClientID=4889
+2025-03-10T05:19:50.222 INFO 192.168.137.1 <- 207.0
+2025-03-10T05:19:50.231 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=463&ClientID=4889
+2025-03-10T05:19:50.235 INFO 192.168.137.1 <- True
+2025-03-10T05:19:50.770 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=464&ClientID=4889
+2025-03-10T05:19:50.771 INFO 192.168.137.1 <- 210.0
+2025-03-10T05:19:50.784 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=465&ClientID=4889
+2025-03-10T05:19:50.786 INFO 192.168.137.1 <- True
+2025-03-10T05:19:51.769 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=466&ClientID=4889
+2025-03-10T05:19:51.841 INFO 192.168.137.1 <- 213.0
+2025-03-10T05:19:52.264 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=467&ClientID=4889
+2025-03-10T05:19:52.270 INFO 192.168.137.1 <- True
+2025-03-10T05:19:52.865 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=468&ClientID=4889
+2025-03-10T05:19:52.887 INFO 192.168.137.1 <- 217.0
+2025-03-10T05:19:52.936 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=469&ClientID=4889
+2025-03-10T05:19:52.953 INFO 192.168.137.1 <- True
+2025-03-10T05:19:53.573 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=470&ClientID=4889
+2025-03-10T05:19:53.600 INFO 192.168.137.1 <- 220.0
+2025-03-10T05:19:53.676 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=471&ClientID=4889
+2025-03-10T05:19:53.838 INFO 192.168.137.1 <- True
+2025-03-10T05:19:54.472 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=472&ClientID=4889
+2025-03-10T05:19:54.514 INFO 192.168.137.1 <- 223.0
+2025-03-10T05:19:54.678 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=473&ClientID=4889
+2025-03-10T05:19:54.711 INFO 192.168.137.1 <- True
+2025-03-10T05:19:55.834 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=474&ClientID=4889
+2025-03-10T05:19:55.846 INFO 192.168.137.1 <- 226.0
+2025-03-10T05:19:55.935 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=475&ClientID=4889
+2025-03-10T05:19:55.967 INFO 192.168.137.1 <- True
+2025-03-10T05:19:56.731 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=476&ClientID=4889
+2025-03-10T05:19:57.053 INFO 192.168.137.1 <- 229.0
+2025-03-10T05:19:57.480 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=477&ClientID=4889
+2025-03-10T05:19:57.500 INFO 192.168.137.1 <- True
+2025-03-10T05:19:58.453 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=478&ClientID=4889
+2025-03-10T05:19:58.522 INFO 192.168.137.1 <- 233.0
+2025-03-10T05:19:58.590 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=479&ClientID=4889
+2025-03-10T05:19:58.709 INFO 192.168.137.1 <- True
+2025-03-10T05:19:59.246 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=480&ClientID=4889
+2025-03-10T05:19:59.248 INFO 192.168.137.1 <- 236.0
+2025-03-10T05:19:59.260 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=481&ClientID=4889
+2025-03-10T05:19:59.261 INFO 192.168.137.1 <- True
+2025-03-10T05:19:59.850 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=482&ClientID=4889
+2025-03-10T05:19:59.859 INFO 192.168.137.1 <- 238.0
+2025-03-10T05:19:59.960 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=483&ClientID=4889
+2025-03-10T05:20:00.028 INFO 192.168.137.1 <- True
+2025-03-10T05:20:00.728 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=484&ClientID=4889
+2025-03-10T05:20:00.735 INFO 192.168.137.1 <- 242.0
+2025-03-10T05:20:00.756 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=485&ClientID=4889
+2025-03-10T05:20:00.759 INFO 192.168.137.1 <- True
+2025-03-10T05:20:01.293 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=486&ClientID=4889
+2025-03-10T05:20:01.294 INFO 192.168.137.1 <- 245.0
+2025-03-10T05:20:01.301 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=487&ClientID=4889
+2025-03-10T05:20:01.303 INFO 192.168.137.1 <- True
+2025-03-10T05:20:01.838 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=488&ClientID=4889
+2025-03-10T05:20:01.839 INFO 192.168.137.1 <- 248.0
+2025-03-10T05:20:01.856 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=489&ClientID=4889
+2025-03-10T05:20:01.858 INFO 192.168.137.1 <- True
+2025-03-10T05:20:02.392 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=490&ClientID=4889
+2025-03-10T05:20:02.393 INFO 192.168.137.1 <- 251.0
+2025-03-10T05:20:02.402 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=491&ClientID=4889
+2025-03-10T05:20:02.403 INFO 192.168.137.1 <- True
+2025-03-10T05:20:02.971 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=492&ClientID=4889
+2025-03-10T05:20:02.989 INFO 192.168.137.1 <- 255.0
+2025-03-10T05:20:02.999 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=493&ClientID=4889
+2025-03-10T05:20:03.002 INFO 192.168.137.1 <- True
+2025-03-10T05:20:03.550 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=494&ClientID=4889
+2025-03-10T05:20:03.551 INFO 192.168.137.1 <- 258.0
+2025-03-10T05:20:03.563 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=495&ClientID=4889
+2025-03-10T05:20:03.564 INFO 192.168.137.1 <- True
+2025-03-10T05:20:04.122 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=496&ClientID=4889
+2025-03-10T05:20:04.123 INFO 192.168.137.1 <- 261.0
+2025-03-10T05:20:04.138 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=497&ClientID=4889
+2025-03-10T05:20:04.139 INFO 192.168.137.1 <- True
+2025-03-10T05:20:04.671 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=498&ClientID=4889
+2025-03-10T05:20:04.672 INFO 192.168.137.1 <- 265.0
+2025-03-10T05:20:04.680 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=499&ClientID=4889
+2025-03-10T05:20:04.681 INFO 192.168.137.1 <- True
+2025-03-10T05:20:05.209 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=500&ClientID=4889
+2025-03-10T05:20:05.210 INFO 192.168.137.1 <- 268.0
+2025-03-10T05:20:05.219 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=501&ClientID=4889
+2025-03-10T05:20:05.220 INFO 192.168.137.1 <- True
+2025-03-10T05:20:05.751 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=502&ClientID=4889
+2025-03-10T05:20:05.753 INFO 192.168.137.1 <- 271.0
+2025-03-10T05:20:05.763 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=503&ClientID=4889
+2025-03-10T05:20:05.764 INFO 192.168.137.1 <- True
+2025-03-10T05:20:06.295 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=504&ClientID=4889
+2025-03-10T05:20:06.296 INFO 192.168.137.1 <- 274.0
+2025-03-10T05:20:06.306 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=505&ClientID=4889
+2025-03-10T05:20:06.307 INFO 192.168.137.1 <- True
+2025-03-10T05:20:06.863 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=506&ClientID=4889
+2025-03-10T05:20:06.863 INFO 192.168.137.1 <- 278.0
+2025-03-10T05:20:06.878 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=507&ClientID=4889
+2025-03-10T05:20:06.879 INFO 192.168.137.1 <- True
+2025-03-10T05:20:07.410 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=508&ClientID=4889
+2025-03-10T05:20:07.411 INFO 192.168.137.1 <- 281.0
+2025-03-10T05:20:07.421 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=509&ClientID=4889
+2025-03-10T05:20:07.422 INFO 192.168.137.1 <- True
+2025-03-10T05:20:07.956 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=510&ClientID=4889
+2025-03-10T05:20:07.958 INFO 192.168.137.1 <- 284.0
+2025-03-10T05:20:07.970 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=511&ClientID=4889
+2025-03-10T05:20:07.973 INFO 192.168.137.1 <- True
+2025-03-10T05:20:08.511 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=512&ClientID=4889
+2025-03-10T05:20:08.512 INFO 192.168.137.1 <- 287.0
+2025-03-10T05:20:08.526 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=513&ClientID=4889
+2025-03-10T05:20:08.534 INFO 192.168.137.1 <- True
+2025-03-10T05:20:09.064 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=514&ClientID=4889
+2025-03-10T05:20:09.065 INFO 192.168.137.1 <- 291.0
+2025-03-10T05:20:09.075 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=515&ClientID=4889
+2025-03-10T05:20:09.076 INFO 192.168.137.1 <- True
+2025-03-10T05:20:09.612 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=516&ClientID=4889
+2025-03-10T05:20:09.613 INFO 192.168.137.1 <- 294.0
+2025-03-10T05:20:09.628 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=517&ClientID=4889
+2025-03-10T05:20:09.629 INFO 192.168.137.1 <- True
+2025-03-10T05:20:10.158 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=518&ClientID=4889
+2025-03-10T05:20:10.159 INFO 192.168.137.1 <- 297.0
+2025-03-10T05:20:10.170 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=519&ClientID=4889
+2025-03-10T05:20:10.171 INFO 192.168.137.1 <- True
+2025-03-10T05:20:10.733 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=520&ClientID=4889
+2025-03-10T05:20:10.748 INFO 192.168.137.1 <- 301.0
+2025-03-10T05:20:10.772 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=521&ClientID=4889
+2025-03-10T05:20:10.775 INFO 192.168.137.1 <- True
+2025-03-10T05:20:11.315 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=522&ClientID=4889
+2025-03-10T05:20:11.316 INFO 192.168.137.1 <- 304.0
+2025-03-10T05:20:11.325 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=523&ClientID=4889
+2025-03-10T05:20:11.326 INFO 192.168.137.1 <- True
+2025-03-10T05:20:11.862 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=524&ClientID=4889
+2025-03-10T05:20:11.864 INFO 192.168.137.1 <- 307.0
+2025-03-10T05:20:11.873 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=525&ClientID=4889
+2025-03-10T05:20:11.876 INFO 192.168.137.1 <- True
+2025-03-10T05:20:12.409 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=526&ClientID=4889
+2025-03-10T05:20:12.411 INFO 192.168.137.1 <- 310.0
+2025-03-10T05:20:12.427 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=527&ClientID=4889
+2025-03-10T05:20:12.428 INFO 192.168.137.1 <- True
+2025-03-10T05:20:12.981 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=528&ClientID=4889
+2025-03-10T05:20:12.982 INFO 192.168.137.1 <- 314.0
+2025-03-10T05:20:12.993 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=529&ClientID=4889
+2025-03-10T05:20:12.994 INFO 192.168.137.1 <- True
+2025-03-10T05:20:13.528 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=530&ClientID=4889
+2025-03-10T05:20:13.529 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:13.541 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=531&ClientID=4889
+2025-03-10T05:20:13.542 INFO 192.168.137.1 <- False
+2025-03-10T05:20:13.555 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=532&ClientID=4889
+2025-03-10T05:20:13.557 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:13.577 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=533&ClientID=4889
+2025-03-10T05:20:13.581 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:13.591 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=534&ClientID=4889
+2025-03-10T05:20:13.592 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:13.606 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=535&ClientID=4889
+2025-03-10T05:20:13.607 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:13.673 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=536&ClientID=4889
+2025-03-10T05:20:13.673 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:13.683 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=537&ClientID=4889
+2025-03-10T05:20:13.684 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:13.692 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:20:13.693 INFO 192.168.137.1 -> {'ClientTransactionID': '538', 'ClientID': '4889', 'Position': '-375'}
+2025-03-10T05:20:13.703 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=539&ClientID=4889
+2025-03-10T05:20:13.704 INFO 192.168.137.1 <- True
+2025-03-10T05:20:14.240 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=540&ClientID=4889
+2025-03-10T05:20:14.241 INFO 192.168.137.1 <- 312.0
+2025-03-10T05:20:14.250 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=541&ClientID=4889
+2025-03-10T05:20:14.251 INFO 192.168.137.1 <- True
+2025-03-10T05:20:14.803 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=542&ClientID=4889
+2025-03-10T05:20:14.803 INFO 192.168.137.1 <- 309.0
+2025-03-10T05:20:14.813 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=543&ClientID=4889
+2025-03-10T05:20:14.821 INFO 192.168.137.1 <- True
+2025-03-10T05:20:15.362 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=544&ClientID=4889
+2025-03-10T05:20:15.366 INFO 192.168.137.1 <- 306.0
+2025-03-10T05:20:15.396 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=545&ClientID=4889
+2025-03-10T05:20:15.400 INFO 192.168.137.1 <- True
+2025-03-10T05:20:15.952 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=546&ClientID=4889
+2025-03-10T05:20:15.953 INFO 192.168.137.1 <- 302.0
+2025-03-10T05:20:15.962 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=547&ClientID=4889
+2025-03-10T05:20:15.963 INFO 192.168.137.1 <- True
+2025-03-10T05:20:16.500 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=548&ClientID=4889
+2025-03-10T05:20:16.501 INFO 192.168.137.1 <- 300.0
+2025-03-10T05:20:16.511 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=549&ClientID=4889
+2025-03-10T05:20:16.512 INFO 192.168.137.1 <- False
+2025-03-10T05:20:16.526 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=550&ClientID=4889
+2025-03-10T05:20:16.527 INFO 192.168.137.1 <- 300.0
+2025-03-10T05:20:16.546 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=551&ClientID=4889
+2025-03-10T05:20:16.548 INFO 192.168.137.1 <- 300.0
+2025-03-10T05:20:16.558 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=552&ClientID=4889
+2025-03-10T05:20:16.559 INFO 192.168.137.1 <- 300.0
+2025-03-10T05:20:16.567 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=553&ClientID=4889
+2025-03-10T05:20:16.569 INFO 192.168.137.1 <- 300.0
+2025-03-10T05:20:16.611 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=554&ClientID=4889
+2025-03-10T05:20:16.612 INFO 192.168.137.1 <- 300.0
+2025-03-10T05:20:16.625 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=555&ClientID=4889
+2025-03-10T05:20:16.626 INFO 192.168.137.1 <- 300.0
+2025-03-10T05:20:16.631 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/move
+2025-03-10T05:20:16.632 INFO 192.168.137.1 -> {'ClientTransactionID': '556', 'ClientID': '4889', 'Position': '375'}
+2025-03-10T05:20:16.641 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=557&ClientID=4889
+2025-03-10T05:20:16.642 INFO 192.168.137.1 <- True
+2025-03-10T05:20:17.178 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=558&ClientID=4889
+2025-03-10T05:20:17.178 INFO 192.168.137.1 <- 303.0
+2025-03-10T05:20:17.187 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=559&ClientID=4889
+2025-03-10T05:20:17.190 INFO 192.168.137.1 <- True
+2025-03-10T05:20:17.746 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=560&ClientID=4889
+2025-03-10T05:20:17.747 INFO 192.168.137.1 <- 306.0
+2025-03-10T05:20:17.755 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=561&ClientID=4889
+2025-03-10T05:20:17.756 INFO 192.168.137.1 <- True
+2025-03-10T05:20:18.310 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=562&ClientID=4889
+2025-03-10T05:20:18.311 INFO 192.168.137.1 <- 310.0
+2025-03-10T05:20:18.319 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=563&ClientID=4889
+2025-03-10T05:20:18.320 INFO 192.168.137.1 <- True
+2025-03-10T05:20:18.849 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=564&ClientID=4889
+2025-03-10T05:20:18.849 INFO 192.168.137.1 <- 313.0
+2025-03-10T05:20:18.858 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=565&ClientID=4889
+2025-03-10T05:20:18.859 INFO 192.168.137.1 <- True
+2025-03-10T05:20:19.395 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=566&ClientID=4889
+2025-03-10T05:20:19.396 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:19.406 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=567&ClientID=4889
+2025-03-10T05:20:19.407 INFO 192.168.137.1 <- False
+2025-03-10T05:20:19.422 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=568&ClientID=4889
+2025-03-10T05:20:19.423 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:19.440 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=569&ClientID=4889
+2025-03-10T05:20:19.441 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:19.448 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=570&ClientID=4889
+2025-03-10T05:20:19.450 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:19.457 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=571&ClientID=4889
+2025-03-10T05:20:19.458 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:19.500 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=572&ClientID=4889
+2025-03-10T05:20:19.502 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:20:19.511 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:20:19.511 INFO 192.168.137.1 -> {'ClientTransactionID': '573', 'ClientID': '4889', 'Position': '45'}
+2025-03-10T05:20:19.520 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=574&ClientID=4889
+2025-03-10T05:20:19.521 INFO 192.168.137.1 <- True
+2025-03-10T05:20:20.053 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=575&ClientID=4889
+2025-03-10T05:20:20.054 INFO 192.168.137.1 <- True
+2025-03-10T05:20:20.592 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=576&ClientID=4889
+2025-03-10T05:20:20.593 INFO 192.168.137.1 <- True
+2025-03-10T05:20:21.124 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=577&ClientID=4889
+2025-03-10T05:20:21.125 INFO 192.168.137.1 <- True
+2025-03-10T05:20:21.678 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=578&ClientID=4889
+2025-03-10T05:20:21.679 INFO 192.168.137.1 <- True
+2025-03-10T05:20:22.208 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=579&ClientID=4889
+2025-03-10T05:20:22.209 INFO 192.168.137.1 <- True
+2025-03-10T05:20:22.740 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=580&ClientID=4889
+2025-03-10T05:20:22.741 INFO 192.168.137.1 <- True
+2025-03-10T05:20:23.270 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=581&ClientID=4889
+2025-03-10T05:20:23.271 INFO 192.168.137.1 <- True
+2025-03-10T05:20:23.825 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=582&ClientID=4889
+2025-03-10T05:20:23.827 INFO 192.168.137.1 <- True
+2025-03-10T05:20:24.380 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=583&ClientID=4889
+2025-03-10T05:20:24.381 INFO 192.168.137.1 <- True
+2025-03-10T05:20:24.928 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=584&ClientID=4889
+2025-03-10T05:20:24.929 INFO 192.168.137.1 <- True
+2025-03-10T05:20:25.459 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=585&ClientID=4889
+2025-03-10T05:20:25.460 INFO 192.168.137.1 <- True
+2025-03-10T05:20:26.014 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=586&ClientID=4889
+2025-03-10T05:20:26.016 INFO 192.168.137.1 <- True
+2025-03-10T05:20:26.570 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=587&ClientID=4889
+2025-03-10T05:20:26.571 INFO 192.168.137.1 <- True
+2025-03-10T05:20:27.125 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=588&ClientID=4889
+2025-03-10T05:20:27.126 INFO 192.168.137.1 <- True
+2025-03-10T05:20:27.681 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=589&ClientID=4889
+2025-03-10T05:20:27.682 INFO 192.168.137.1 <- True
+2025-03-10T05:20:28.233 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=590&ClientID=4889
+2025-03-10T05:20:28.234 INFO 192.168.137.1 <- True
+2025-03-10T05:20:28.763 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=591&ClientID=4889
+2025-03-10T05:20:28.764 INFO 192.168.137.1 <- True
+2025-03-10T05:20:29.293 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=592&ClientID=4889
+2025-03-10T05:20:29.294 INFO 192.168.137.1 <- True
+2025-03-10T05:20:29.848 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=593&ClientID=4889
+2025-03-10T05:20:29.849 INFO 192.168.137.1 <- True
+2025-03-10T05:20:30.399 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=594&ClientID=4889
+2025-03-10T05:20:30.401 INFO 192.168.137.1 <- True
+2025-03-10T05:20:30.957 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=595&ClientID=4889
+2025-03-10T05:20:30.958 INFO 192.168.137.1 <- True
+2025-03-10T05:20:31.491 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=596&ClientID=4889
+2025-03-10T05:20:31.491 INFO 192.168.137.1 <- True
+2025-03-10T05:20:32.022 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=597&ClientID=4889
+2025-03-10T05:20:32.024 INFO 192.168.137.1 <- True
+2025-03-10T05:20:32.578 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=598&ClientID=4889
+2025-03-10T05:20:32.579 INFO 192.168.137.1 <- True
+2025-03-10T05:20:33.110 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=599&ClientID=4889
+2025-03-10T05:20:33.110 INFO 192.168.137.1 <- True
+2025-03-10T05:20:33.644 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=600&ClientID=4889
+2025-03-10T05:20:33.645 INFO 192.168.137.1 <- True
+2025-03-10T05:20:34.176 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=601&ClientID=4889
+2025-03-10T05:20:34.177 INFO 192.168.137.1 <- True
+2025-03-10T05:20:34.732 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=602&ClientID=4889
+2025-03-10T05:20:34.733 INFO 192.168.137.1 <- True
+2025-03-10T05:20:35.264 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=603&ClientID=4889
+2025-03-10T05:20:35.265 INFO 192.168.137.1 <- False
+2025-03-10T05:20:35.273 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=604&ClientID=4889
+2025-03-10T05:20:35.273 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:20:35.280 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=605&ClientID=4889
+2025-03-10T05:20:35.281 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:20:35.288 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=606&ClientID=4889
+2025-03-10T05:20:35.289 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:20:35.327 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=607&ClientID=4889
+2025-03-10T05:20:35.327 INFO 192.168.137.1 <- 45.0
+2025-03-10T05:20:35.333 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:20:35.334 INFO 192.168.137.1 -> {'ClientTransactionID': '608', 'ClientID': '4889', 'Position': '135'}
+2025-03-10T05:20:35.350 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=609&ClientID=4889
+2025-03-10T05:20:35.351 INFO 192.168.137.1 <- True
+2025-03-10T05:20:35.889 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=610&ClientID=4889
+2025-03-10T05:20:35.890 INFO 192.168.137.1 <- True
+2025-03-10T05:20:36.420 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=611&ClientID=4889
+2025-03-10T05:20:36.421 INFO 192.168.137.1 <- True
+2025-03-10T05:20:36.977 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=612&ClientID=4889
+2025-03-10T05:20:36.977 INFO 192.168.137.1 <- True
+2025-03-10T05:20:37.511 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=613&ClientID=4889
+2025-03-10T05:20:37.512 INFO 192.168.137.1 <- True
+2025-03-10T05:20:38.047 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=614&ClientID=4889
+2025-03-10T05:20:38.048 INFO 192.168.137.1 <- True
+2025-03-10T05:20:38.582 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=615&ClientID=4889
+2025-03-10T05:20:38.583 INFO 192.168.137.1 <- True
+2025-03-10T05:20:39.117 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=616&ClientID=4889
+2025-03-10T05:20:39.118 INFO 192.168.137.1 <- True
+2025-03-10T05:20:39.647 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=617&ClientID=4889
+2025-03-10T05:20:39.648 INFO 192.168.137.1 <- True
+2025-03-10T05:20:40.179 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=618&ClientID=4889
+2025-03-10T05:20:40.180 INFO 192.168.137.1 <- True
+2025-03-10T05:20:40.718 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=619&ClientID=4889
+2025-03-10T05:20:40.719 INFO 192.168.137.1 <- True
+2025-03-10T05:20:41.274 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=620&ClientID=4889
+2025-03-10T05:20:41.275 INFO 192.168.137.1 <- True
+2025-03-10T05:20:41.805 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=621&ClientID=4889
+2025-03-10T05:20:41.806 INFO 192.168.137.1 <- True
+2025-03-10T05:20:42.363 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=622&ClientID=4889
+2025-03-10T05:20:42.364 INFO 192.168.137.1 <- True
+2025-03-10T05:20:42.895 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=623&ClientID=4889
+2025-03-10T05:20:42.895 INFO 192.168.137.1 <- True
+2025-03-10T05:20:43.424 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=624&ClientID=4889
+2025-03-10T05:20:43.425 INFO 192.168.137.1 <- True
+2025-03-10T05:20:43.956 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=625&ClientID=4889
+2025-03-10T05:20:43.957 INFO 192.168.137.1 <- True
+2025-03-10T05:20:44.487 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=626&ClientID=4889
+2025-03-10T05:20:44.487 INFO 192.168.137.1 <- True
+2025-03-10T05:20:45.016 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=627&ClientID=4889
+2025-03-10T05:20:45.017 INFO 192.168.137.1 <- True
+2025-03-10T05:20:45.553 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=628&ClientID=4889
+2025-03-10T05:20:45.554 INFO 192.168.137.1 <- True
+2025-03-10T05:20:46.083 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=629&ClientID=4889
+2025-03-10T05:20:46.084 INFO 192.168.137.1 <- True
+2025-03-10T05:20:46.640 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=630&ClientID=4889
+2025-03-10T05:20:46.641 INFO 192.168.137.1 <- True
+2025-03-10T05:20:47.172 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=631&ClientID=4889
+2025-03-10T05:20:47.173 INFO 192.168.137.1 <- True
+2025-03-10T05:20:47.730 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=632&ClientID=4889
+2025-03-10T05:20:47.730 INFO 192.168.137.1 <- True
+2025-03-10T05:20:48.283 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=633&ClientID=4889
+2025-03-10T05:20:48.284 INFO 192.168.137.1 <- True
+2025-03-10T05:20:48.812 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=634&ClientID=4889
+2025-03-10T05:20:48.813 INFO 192.168.137.1 <- True
+2025-03-10T05:20:49.363 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=635&ClientID=4889
+2025-03-10T05:20:49.364 INFO 192.168.137.1 <- True
+2025-03-10T05:20:49.917 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=636&ClientID=4889
+2025-03-10T05:20:49.919 INFO 192.168.137.1 <- True
+2025-03-10T05:20:50.453 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=637&ClientID=4889
+2025-03-10T05:20:50.454 INFO 192.168.137.1 <- True
+2025-03-10T05:20:50.985 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=638&ClientID=4889
+2025-03-10T05:20:50.986 INFO 192.168.137.1 <- False
+2025-03-10T05:20:50.995 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=639&ClientID=4889
+2025-03-10T05:20:50.995 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:20:51.002 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=640&ClientID=4889
+2025-03-10T05:20:51.003 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:20:51.010 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=641&ClientID=4889
+2025-03-10T05:20:51.011 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:20:51.050 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=642&ClientID=4889
+2025-03-10T05:20:51.052 INFO 192.168.137.1 <- 135.0
+2025-03-10T05:20:51.060 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:20:51.061 INFO 192.168.137.1 -> {'ClientTransactionID': '643', 'ClientID': '4889', 'Position': '225'}
+2025-03-10T05:20:51.070 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=644&ClientID=4889
+2025-03-10T05:20:51.071 INFO 192.168.137.1 <- True
+2025-03-10T05:20:51.634 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=645&ClientID=4889
+2025-03-10T05:20:51.635 INFO 192.168.137.1 <- True
+2025-03-10T05:20:52.168 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=646&ClientID=4889
+2025-03-10T05:20:52.170 INFO 192.168.137.1 <- True
+2025-03-10T05:20:52.703 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=647&ClientID=4889
+2025-03-10T05:20:52.704 INFO 192.168.137.1 <- True
+2025-03-10T05:20:53.234 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=648&ClientID=4889
+2025-03-10T05:20:53.235 INFO 192.168.137.1 <- True
+2025-03-10T05:20:53.786 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=649&ClientID=4889
+2025-03-10T05:20:53.788 INFO 192.168.137.1 <- True
+2025-03-10T05:20:54.319 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=650&ClientID=4889
+2025-03-10T05:20:54.320 INFO 192.168.137.1 <- True
+2025-03-10T05:20:54.848 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=651&ClientID=4889
+2025-03-10T05:20:54.849 INFO 192.168.137.1 <- True
+2025-03-10T05:20:55.379 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=652&ClientID=4889
+2025-03-10T05:20:55.380 INFO 192.168.137.1 <- True
+2025-03-10T05:20:55.913 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=653&ClientID=4889
+2025-03-10T05:20:55.914 INFO 192.168.137.1 <- True
+2025-03-10T05:20:56.446 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=654&ClientID=4889
+2025-03-10T05:20:56.447 INFO 192.168.137.1 <- True
+2025-03-10T05:20:57.002 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=655&ClientID=4889
+2025-03-10T05:20:57.003 INFO 192.168.137.1 <- True
+2025-03-10T05:20:57.558 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=656&ClientID=4889
+2025-03-10T05:20:57.559 INFO 192.168.137.1 <- True
+2025-03-10T05:20:58.114 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=657&ClientID=4889
+2025-03-10T05:20:58.114 INFO 192.168.137.1 <- True
+2025-03-10T05:20:58.645 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=658&ClientID=4889
+2025-03-10T05:20:58.646 INFO 192.168.137.1 <- True
+2025-03-10T05:20:59.203 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=659&ClientID=4889
+2025-03-10T05:20:59.204 INFO 192.168.137.1 <- True
+2025-03-10T05:20:59.738 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=660&ClientID=4889
+2025-03-10T05:20:59.740 INFO 192.168.137.1 <- True
+2025-03-10T05:21:00.278 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=661&ClientID=4889
+2025-03-10T05:21:00.279 INFO 192.168.137.1 <- True
+2025-03-10T05:21:00.814 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=662&ClientID=4889
+2025-03-10T05:21:00.815 INFO 192.168.137.1 <- True
+2025-03-10T05:21:01.352 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=663&ClientID=4889
+2025-03-10T05:21:01.353 INFO 192.168.137.1 <- True
+2025-03-10T05:21:01.886 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=664&ClientID=4889
+2025-03-10T05:21:01.886 INFO 192.168.137.1 <- True
+2025-03-10T05:21:02.420 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=665&ClientID=4889
+2025-03-10T05:21:02.421 INFO 192.168.137.1 <- True
+2025-03-10T05:21:02.957 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=666&ClientID=4889
+2025-03-10T05:21:02.957 INFO 192.168.137.1 <- True
+2025-03-10T05:21:03.489 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=667&ClientID=4889
+2025-03-10T05:21:03.490 INFO 192.168.137.1 <- True
+2025-03-10T05:21:04.020 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=668&ClientID=4889
+2025-03-10T05:21:04.021 INFO 192.168.137.1 <- True
+2025-03-10T05:21:04.576 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=669&ClientID=4889
+2025-03-10T05:21:04.577 INFO 192.168.137.1 <- True
+2025-03-10T05:21:05.127 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=670&ClientID=4889
+2025-03-10T05:21:05.128 INFO 192.168.137.1 <- True
+2025-03-10T05:21:05.657 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=671&ClientID=4889
+2025-03-10T05:21:05.657 INFO 192.168.137.1 <- True
+2025-03-10T05:21:06.213 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=672&ClientID=4889
+2025-03-10T05:21:06.215 INFO 192.168.137.1 <- True
+2025-03-10T05:21:06.750 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=673&ClientID=4889
+2025-03-10T05:21:06.752 INFO 192.168.137.1 <- False
+2025-03-10T05:21:06.762 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=674&ClientID=4889
+2025-03-10T05:21:06.764 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:21:06.772 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=675&ClientID=4889
+2025-03-10T05:21:06.773 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:21:06.782 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=676&ClientID=4889
+2025-03-10T05:21:06.785 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:21:06.833 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=677&ClientID=4889
+2025-03-10T05:21:06.834 INFO 192.168.137.1 <- 225.0
+2025-03-10T05:21:06.841 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:21:06.851 INFO 192.168.137.1 -> {'ClientTransactionID': '678', 'ClientID': '4889', 'Position': '315'}
+2025-03-10T05:21:06.870 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=679&ClientID=4889
+2025-03-10T05:21:06.872 INFO 192.168.137.1 <- True
+2025-03-10T05:21:07.432 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=680&ClientID=4889
+2025-03-10T05:21:07.434 INFO 192.168.137.1 <- True
+2025-03-10T05:21:07.984 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=681&ClientID=4889
+2025-03-10T05:21:07.991 INFO 192.168.137.1 <- True
+2025-03-10T05:21:08.526 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=682&ClientID=4889
+2025-03-10T05:21:08.527 INFO 192.168.137.1 <- True
+2025-03-10T05:21:09.066 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=683&ClientID=4889
+2025-03-10T05:21:09.068 INFO 192.168.137.1 <- True
+2025-03-10T05:21:09.603 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=684&ClientID=4889
+2025-03-10T05:21:09.603 INFO 192.168.137.1 <- True
+2025-03-10T05:21:10.136 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=685&ClientID=4889
+2025-03-10T05:21:10.137 INFO 192.168.137.1 <- True
+2025-03-10T05:21:10.673 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=686&ClientID=4889
+2025-03-10T05:21:10.675 INFO 192.168.137.1 <- True
+2025-03-10T05:21:11.205 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=687&ClientID=4889
+2025-03-10T05:21:11.206 INFO 192.168.137.1 <- True
+2025-03-10T05:21:11.739 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=688&ClientID=4889
+2025-03-10T05:21:11.740 INFO 192.168.137.1 <- True
+2025-03-10T05:21:12.293 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=689&ClientID=4889
+2025-03-10T05:21:12.293 INFO 192.168.137.1 <- True
+2025-03-10T05:21:12.844 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=690&ClientID=4889
+2025-03-10T05:21:12.845 INFO 192.168.137.1 <- True
+2025-03-10T05:21:13.380 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=691&ClientID=4889
+2025-03-10T05:21:13.382 INFO 192.168.137.1 <- True
+2025-03-10T05:21:13.917 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=692&ClientID=4889
+2025-03-10T05:21:13.918 INFO 192.168.137.1 <- True
+2025-03-10T05:21:14.452 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=693&ClientID=4889
+2025-03-10T05:21:14.453 INFO 192.168.137.1 <- True
+2025-03-10T05:21:14.983 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=694&ClientID=4889
+2025-03-10T05:21:14.984 INFO 192.168.137.1 <- True
+2025-03-10T05:21:15.523 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=695&ClientID=4889
+2025-03-10T05:21:15.524 INFO 192.168.137.1 <- True
+2025-03-10T05:21:16.053 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=696&ClientID=4889
+2025-03-10T05:21:16.054 INFO 192.168.137.1 <- True
+2025-03-10T05:21:16.608 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=697&ClientID=4889
+2025-03-10T05:21:16.609 INFO 192.168.137.1 <- True
+2025-03-10T05:21:17.140 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=698&ClientID=4889
+2025-03-10T05:21:17.141 INFO 192.168.137.1 <- True
+2025-03-10T05:21:17.677 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=699&ClientID=4889
+2025-03-10T05:21:17.678 INFO 192.168.137.1 <- True
+2025-03-10T05:21:18.233 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=700&ClientID=4889
+2025-03-10T05:21:18.234 INFO 192.168.137.1 <- True
+2025-03-10T05:21:18.768 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=701&ClientID=4889
+2025-03-10T05:21:18.769 INFO 192.168.137.1 <- True
+2025-03-10T05:21:19.305 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=702&ClientID=4889
+2025-03-10T05:21:19.306 INFO 192.168.137.1 <- True
+2025-03-10T05:21:19.839 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=703&ClientID=4889
+2025-03-10T05:21:19.840 INFO 192.168.137.1 <- True
+2025-03-10T05:21:20.370 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=704&ClientID=4889
+2025-03-10T05:21:20.371 INFO 192.168.137.1 <- True
+2025-03-10T05:21:20.927 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=705&ClientID=4889
+2025-03-10T05:21:20.928 INFO 192.168.137.1 <- True
+2025-03-10T05:21:21.464 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=706&ClientID=4889
+2025-03-10T05:21:21.466 INFO 192.168.137.1 <- True
+2025-03-10T05:21:22.002 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=707&ClientID=4889
+2025-03-10T05:21:22.003 INFO 192.168.137.1 <- True
+2025-03-10T05:21:22.535 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=708&ClientID=4889
+2025-03-10T05:21:22.536 INFO 192.168.137.1 <- False
+2025-03-10T05:21:22.546 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=709&ClientID=4889
+2025-03-10T05:21:22.547 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:21:22.554 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=710&ClientID=4889
+2025-03-10T05:21:22.555 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:21:22.563 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=711&ClientID=4889
+2025-03-10T05:21:22.563 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:21:22.605 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=712&ClientID=4889
+2025-03-10T05:21:22.606 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:21:22.613 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:21:22.615 INFO 192.168.137.1 -> {'ClientTransactionID': '713', 'ClientID': '4889', 'Position': '-405'}
+2025-03-10T05:21:22.616 ERROR InvalidValueException: Position out of range: -405.0
+2025-03-10T05:21:22.662 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=714&ClientID=4889
+2025-03-10T05:21:22.663 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:21:22.670 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:21:22.673 INFO 192.168.137.1 -> {'ClientTransactionID': '715', 'ClientID': '4889', 'Position': '405'}
+2025-03-10T05:21:22.674 ERROR InvalidValueException: Position out of range: 405.0
+2025-03-10T05:21:22.716 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=716&ClientID=4889
+2025-03-10T05:21:22.717 INFO 192.168.137.1 <- 315.0
+2025-03-10T05:21:22.724 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:21:22.725 INFO 192.168.137.1 -> {'ClientTransactionID': '717', 'ClientID': '4889', 'Position': '90'}
+2025-03-10T05:21:22.734 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=718&ClientID=4889
+2025-03-10T05:21:22.735 INFO 192.168.137.1 <- True
+2025-03-10T05:21:23.271 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=719&ClientID=4889
+2025-03-10T05:21:23.272 INFO 192.168.137.1 <- True
+2025-03-10T05:21:23.803 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=720&ClientID=4889
+2025-03-10T05:21:23.804 INFO 192.168.137.1 <- True
+2025-03-10T05:21:24.340 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=721&ClientID=4889
+2025-03-10T05:21:24.341 INFO 192.168.137.1 <- True
+2025-03-10T05:21:24.875 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=722&ClientID=4889
+2025-03-10T05:21:24.876 INFO 192.168.137.1 <- True
+2025-03-10T05:21:25.421 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=723&ClientID=4889
+2025-03-10T05:21:25.422 INFO 192.168.137.1 <- True
+2025-03-10T05:21:25.955 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=724&ClientID=4889
+2025-03-10T05:21:25.956 INFO 192.168.137.1 <- True
+2025-03-10T05:21:26.666 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=725&ClientID=4889
+2025-03-10T05:21:26.674 INFO 192.168.137.1 <- True
+2025-03-10T05:21:27.212 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=726&ClientID=4889
+2025-03-10T05:21:27.213 INFO 192.168.137.1 <- True
+2025-03-10T05:21:27.743 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=727&ClientID=4889
+2025-03-10T05:21:27.744 INFO 192.168.137.1 <- True
+2025-03-10T05:21:28.275 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=728&ClientID=4889
+2025-03-10T05:21:28.276 INFO 192.168.137.1 <- True
+2025-03-10T05:21:28.808 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=729&ClientID=4889
+2025-03-10T05:21:28.809 INFO 192.168.137.1 <- True
+2025-03-10T05:21:29.357 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=730&ClientID=4889
+2025-03-10T05:21:29.359 INFO 192.168.137.1 <- True
+2025-03-10T05:21:29.896 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=731&ClientID=4889
+2025-03-10T05:21:29.897 INFO 192.168.137.1 <- True
+2025-03-10T05:21:30.430 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=732&ClientID=4889
+2025-03-10T05:21:30.431 INFO 192.168.137.1 <- True
+2025-03-10T05:21:30.963 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=733&ClientID=4889
+2025-03-10T05:21:30.964 INFO 192.168.137.1 <- True
+2025-03-10T05:21:31.502 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=734&ClientID=4889
+2025-03-10T05:21:31.503 INFO 192.168.137.1 <- True
+2025-03-10T05:21:32.033 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=735&ClientID=4889
+2025-03-10T05:21:32.034 INFO 192.168.137.1 <- True
+2025-03-10T05:21:32.566 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=736&ClientID=4889
+2025-03-10T05:21:32.567 INFO 192.168.137.1 <- True
+2025-03-10T05:21:33.122 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=737&ClientID=4889
+2025-03-10T05:21:33.123 INFO 192.168.137.1 <- True
+2025-03-10T05:21:33.677 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=738&ClientID=4889
+2025-03-10T05:21:33.678 INFO 192.168.137.1 <- True
+2025-03-10T05:21:34.208 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=739&ClientID=4889
+2025-03-10T05:21:34.209 INFO 192.168.137.1 <- True
+2025-03-10T05:21:34.740 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=740&ClientID=4889
+2025-03-10T05:21:34.741 INFO 192.168.137.1 <- True
+2025-03-10T05:21:35.275 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=741&ClientID=4889
+2025-03-10T05:21:35.276 INFO 192.168.137.1 <- True
+2025-03-10T05:21:35.805 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=742&ClientID=4889
+2025-03-10T05:21:35.806 INFO 192.168.137.1 <- True
+2025-03-10T05:21:36.360 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=743&ClientID=4889
+2025-03-10T05:21:36.361 INFO 192.168.137.1 <- True
+2025-03-10T05:21:36.911 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=744&ClientID=4889
+2025-03-10T05:21:36.912 INFO 192.168.137.1 <- True
+2025-03-10T05:21:37.442 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=745&ClientID=4889
+2025-03-10T05:21:37.443 INFO 192.168.137.1 <- True
+2025-03-10T05:21:37.973 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=746&ClientID=4889
+2025-03-10T05:21:37.973 INFO 192.168.137.1 <- True
+2025-03-10T05:21:38.503 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=747&ClientID=4889
+2025-03-10T05:21:38.504 INFO 192.168.137.1 <- True
+2025-03-10T05:21:39.057 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=748&ClientID=4889
+2025-03-10T05:21:39.058 INFO 192.168.137.1 <- True
+2025-03-10T05:21:39.611 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=749&ClientID=4889
+2025-03-10T05:21:39.612 INFO 192.168.137.1 <- True
+2025-03-10T05:21:40.140 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=750&ClientID=4889
+2025-03-10T05:21:40.141 INFO 192.168.137.1 <- True
+2025-03-10T05:21:40.671 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=751&ClientID=4889
+2025-03-10T05:21:40.672 INFO 192.168.137.1 <- True
+2025-03-10T05:21:41.200 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=752&ClientID=4889
+2025-03-10T05:21:41.201 INFO 192.168.137.1 <- True
+2025-03-10T05:21:41.730 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=753&ClientID=4889
+2025-03-10T05:21:41.731 INFO 192.168.137.1 <- True
+2025-03-10T05:21:42.263 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=754&ClientID=4889
+2025-03-10T05:21:42.264 INFO 192.168.137.1 <- True
+2025-03-10T05:21:42.801 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=755&ClientID=4889
+2025-03-10T05:21:42.802 INFO 192.168.137.1 <- True
+2025-03-10T05:21:43.338 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=756&ClientID=4889
+2025-03-10T05:21:43.340 INFO 192.168.137.1 <- True
+2025-03-10T05:21:43.876 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=757&ClientID=4889
+2025-03-10T05:21:43.876 INFO 192.168.137.1 <- True
+2025-03-10T05:21:44.415 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=758&ClientID=4889
+2025-03-10T05:21:44.416 INFO 192.168.137.1 <- True
+2025-03-10T05:21:44.967 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=759&ClientID=4889
+2025-03-10T05:21:44.968 INFO 192.168.137.1 <- True
+2025-03-10T05:21:45.511 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=760&ClientID=4889
+2025-03-10T05:21:45.513 INFO 192.168.137.1 <- True
+2025-03-10T05:21:46.053 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=761&ClientID=4889
+2025-03-10T05:21:46.056 INFO 192.168.137.1 <- False
+2025-03-10T05:21:46.071 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=762&ClientID=4889
+2025-03-10T05:21:46.072 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.092 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=763&ClientID=4889
+2025-03-10T05:21:46.099 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.110 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=764&ClientID=4889
+2025-03-10T05:21:46.111 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.160 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/sync
+2025-03-10T05:21:46.164 INFO 192.168.137.1 -> {'ClientTransactionID': '765', 'ClientID': '4889', 'Position': '90'}
+2025-03-10T05:21:46.192 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=766&ClientID=4889
+2025-03-10T05:21:46.195 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.224 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=767&ClientID=4889
+2025-03-10T05:21:46.228 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.234 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:21:46.235 INFO 192.168.137.1 -> {'ClientTransactionID': '768', 'ClientID': '4889', 'Position': '90'}
+2025-03-10T05:21:46.245 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=769&ClientID=4889
+2025-03-10T05:21:46.246 INFO 192.168.137.1 <- True
+2025-03-10T05:21:46.811 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=770&ClientID=4889
+2025-03-10T05:21:46.812 INFO 192.168.137.1 <- False
+2025-03-10T05:21:46.822 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=771&ClientID=4889
+2025-03-10T05:21:46.829 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.838 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=772&ClientID=4889
+2025-03-10T05:21:46.839 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.846 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=773&ClientID=4889
+2025-03-10T05:21:46.846 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:46.887 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/sync
+2025-03-10T05:21:46.888 INFO 192.168.137.1 -> {'ClientTransactionID': '774', 'ClientID': '4889', 'Position': '120'}
+2025-03-10T05:21:46.914 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=775&ClientID=4889
+2025-03-10T05:21:46.914 INFO 192.168.137.1 <- 120.0
+2025-03-10T05:21:46.935 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=776&ClientID=4889
+2025-03-10T05:21:46.936 INFO 192.168.137.1 <- 120.0
+2025-03-10T05:21:46.945 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:21:46.946 INFO 192.168.137.1 -> {'ClientTransactionID': '777', 'ClientID': '4889', 'Position': '90'}
+2025-03-10T05:21:46.956 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=778&ClientID=4889
+2025-03-10T05:21:46.957 INFO 192.168.137.1 <- True
+2025-03-10T05:21:47.497 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=779&ClientID=4889
+2025-03-10T05:21:47.498 INFO 192.168.137.1 <- False
+2025-03-10T05:21:47.511 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=780&ClientID=4889
+2025-03-10T05:21:47.512 INFO 192.168.137.1 <- 120.0
+2025-03-10T05:21:47.523 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=781&ClientID=4889
+2025-03-10T05:21:47.523 INFO 192.168.137.1 <- 120.0
+2025-03-10T05:21:47.534 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=782&ClientID=4889
+2025-03-10T05:21:47.535 INFO 192.168.137.1 <- 90.0
+2025-03-10T05:21:47.573 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/sync
+2025-03-10T05:21:47.575 INFO 192.168.137.1 -> {'ClientTransactionID': '783', 'ClientID': '4889', 'Position': '60'}
+2025-03-10T05:21:47.595 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=784&ClientID=4889
+2025-03-10T05:21:47.597 INFO 192.168.137.1 <- 60.0
+2025-03-10T05:21:47.616 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=785&ClientID=4889
+2025-03-10T05:21:47.620 INFO 192.168.137.1 <- 60.0
+2025-03-10T05:21:47.629 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:21:47.633 INFO 192.168.137.1 -> {'ClientTransactionID': '786', 'ClientID': '4889', 'Position': '0'}
+2025-03-10T05:21:47.645 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=787&ClientID=4889
+2025-03-10T05:21:47.646 INFO 192.168.137.1 <- True
+2025-03-10T05:21:48.202 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=788&ClientID=4889
+2025-03-10T05:21:48.203 INFO 192.168.137.1 <- True
+2025-03-10T05:21:49.034 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=789&ClientID=4889
+2025-03-10T05:21:49.036 INFO 192.168.137.1 <- True
+2025-03-10T05:21:49.572 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=790&ClientID=4889
+2025-03-10T05:21:49.573 INFO 192.168.137.1 <- True
+2025-03-10T05:21:50.124 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=791&ClientID=4889
+2025-03-10T05:21:50.125 INFO 192.168.137.1 <- True
+2025-03-10T05:21:50.662 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=792&ClientID=4889
+2025-03-10T05:21:50.663 INFO 192.168.137.1 <- True
+2025-03-10T05:21:51.281 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=793&ClientID=4889
+2025-03-10T05:21:51.283 INFO 192.168.137.1 <- True
+2025-03-10T05:21:51.819 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=794&ClientID=4889
+2025-03-10T05:21:51.820 INFO 192.168.137.1 <- True
+2025-03-10T05:21:52.380 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=795&ClientID=4889
+2025-03-10T05:21:52.384 INFO 192.168.137.1 <- True
+2025-03-10T05:21:52.921 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=796&ClientID=4889
+2025-03-10T05:21:52.922 INFO 192.168.137.1 <- True
+2025-03-10T05:21:53.452 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=797&ClientID=4889
+2025-03-10T05:21:53.452 INFO 192.168.137.1 <- True
+2025-03-10T05:21:54.005 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=798&ClientID=4889
+2025-03-10T05:21:54.044 INFO 192.168.137.1 <- True
+2025-03-10T05:21:54.601 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=799&ClientID=4889
+2025-03-10T05:21:54.603 INFO 192.168.137.1 <- True
+2025-03-10T05:21:55.135 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=800&ClientID=4889
+2025-03-10T05:21:55.136 INFO 192.168.137.1 <- True
+2025-03-10T05:21:55.671 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=801&ClientID=4889
+2025-03-10T05:21:55.672 INFO 192.168.137.1 <- True
+2025-03-10T05:21:56.207 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=802&ClientID=4889
+2025-03-10T05:21:56.208 INFO 192.168.137.1 <- True
+2025-03-10T05:21:56.809 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=803&ClientID=4889
+2025-03-10T05:21:56.830 INFO 192.168.137.1 <- True
+2025-03-10T05:21:57.555 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=804&ClientID=4889
+2025-03-10T05:21:57.562 INFO 192.168.137.1 <- True
+2025-03-10T05:21:58.113 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=805&ClientID=4889
+2025-03-10T05:21:58.114 INFO 192.168.137.1 <- True
+2025-03-10T05:21:58.645 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=806&ClientID=4889
+2025-03-10T05:21:58.646 INFO 192.168.137.1 <- True
+2025-03-10T05:21:59.176 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=807&ClientID=4889
+2025-03-10T05:21:59.177 INFO 192.168.137.1 <- True
+2025-03-10T05:21:59.714 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=808&ClientID=4889
+2025-03-10T05:21:59.715 INFO 192.168.137.1 <- True
+2025-03-10T05:22:00.244 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=809&ClientID=4889
+2025-03-10T05:22:00.245 INFO 192.168.137.1 <- True
+2025-03-10T05:22:01.007 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=810&ClientID=4889
+2025-03-10T05:22:01.026 INFO 192.168.137.1 <- True
+2025-03-10T05:22:01.591 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=811&ClientID=4889
+2025-03-10T05:22:01.592 INFO 192.168.137.1 <- True
+2025-03-10T05:22:03.024 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=812&ClientID=4889
+2025-03-10T05:22:03.179 INFO 192.168.137.1 <- True
+2025-03-10T05:22:03.740 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=813&ClientID=4889
+2025-03-10T05:22:03.741 INFO 192.168.137.1 <- True
+2025-03-10T05:22:04.273 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=814&ClientID=4889
+2025-03-10T05:22:04.274 INFO 192.168.137.1 <- True
+2025-03-10T05:22:04.805 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=815&ClientID=4889
+2025-03-10T05:22:04.806 INFO 192.168.137.1 <- True
+2025-03-10T05:22:05.337 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=816&ClientID=4889
+2025-03-10T05:22:05.338 INFO 192.168.137.1 <- True
+2025-03-10T05:22:05.873 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=817&ClientID=4889
+2025-03-10T05:22:05.874 INFO 192.168.137.1 <- False
+2025-03-10T05:22:05.882 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=818&ClientID=4889
+2025-03-10T05:22:05.883 INFO 192.168.137.1 <- 330.0
+2025-03-10T05:22:05.891 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=819&ClientID=4889
+2025-03-10T05:22:05.892 INFO 192.168.137.1 <- 330.0
+2025-03-10T05:22:05.901 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=820&ClientID=4889
+2025-03-10T05:22:05.905 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:22:05.944 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/sync
+2025-03-10T05:22:05.945 INFO 192.168.137.1 -> {'ClientTransactionID': '821', 'ClientID': '4889', 'Position': '0'}
+2025-03-10T05:22:05.964 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=822&ClientID=4889
+2025-03-10T05:22:05.965 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:22:05.988 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=823&ClientID=4889
+2025-03-10T05:22:05.994 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:22:06.001 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:22:06.004 INFO 192.168.137.1 -> {'ClientTransactionID': '824', 'ClientID': '4889', 'Position': '0'}
+2025-03-10T05:22:06.011 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=825&ClientID=4889
+2025-03-10T05:22:06.014 INFO 192.168.137.1 <- True
+2025-03-10T05:22:06.574 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=826&ClientID=4889
+2025-03-10T05:22:06.575 INFO 192.168.137.1 <- False
+2025-03-10T05:22:06.590 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=827&ClientID=4889
+2025-03-10T05:22:06.596 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:22:06.608 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=828&ClientID=4889
+2025-03-10T05:22:06.609 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:22:06.633 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=829&ClientID=4889
+2025-03-10T05:22:06.642 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:22:06.683 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/sync
+2025-03-10T05:22:06.695 INFO 192.168.137.1 -> {'ClientTransactionID': '830', 'ClientID': '4889', 'Position': '30'}
+2025-03-10T05:22:06.710 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=831&ClientID=4889
+2025-03-10T05:22:06.713 INFO 192.168.137.1 <- 30.0
+2025-03-10T05:22:06.739 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=832&ClientID=4889
+2025-03-10T05:22:06.740 INFO 192.168.137.1 <- 30.0
+2025-03-10T05:22:06.746 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/movemechanical
+2025-03-10T05:22:06.747 INFO 192.168.137.1 -> {'ClientTransactionID': '833', 'ClientID': '4889', 'Position': '0'}
+2025-03-10T05:22:06.758 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=834&ClientID=4889
+2025-03-10T05:22:06.760 INFO 192.168.137.1 <- True
+2025-03-10T05:22:07.305 INFO 192.168.137.1 -> GET /api/v1/rotator/0/ismoving?ClientTransactionID=835&ClientID=4889
+2025-03-10T05:22:07.306 INFO 192.168.137.1 <- False
+2025-03-10T05:22:07.322 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=836&ClientID=4889
+2025-03-10T05:22:07.323 INFO 192.168.137.1 <- 30.0
+2025-03-10T05:22:07.336 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=837&ClientID=4889
+2025-03-10T05:22:07.346 INFO 192.168.137.1 <- 30.0
+2025-03-10T05:22:07.356 INFO 192.168.137.1 -> GET /api/v1/rotator/0/mechanicalposition?ClientTransactionID=838&ClientID=4889
+2025-03-10T05:22:07.357 INFO 192.168.137.1 <- 0.0
+2025-03-10T05:22:07.399 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/sync
+2025-03-10T05:22:07.400 INFO 192.168.137.1 -> {'ClientTransactionID': '839', 'ClientID': '4889', 'Position': '330'}
+2025-03-10T05:22:07.432 INFO 192.168.137.1 -> GET /api/v1/rotator/0/position?ClientTransactionID=840&ClientID=4889
+2025-03-10T05:22:07.435 INFO 192.168.137.1 <- 330.0
+2025-03-10T05:22:07.550 INFO 192.168.137.1 -> PUT /api/v1/rotator/0/connected
+2025-03-10T05:22:07.553 INFO 192.168.137.1 -> {'ClientTransactionID': '841', 'ClientID': '4889', 'Connected': 'False'}
+2025-03-10T05:22:07.554 INFO [disconnected]
